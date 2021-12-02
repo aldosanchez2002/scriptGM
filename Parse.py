@@ -9,7 +9,7 @@ class Parse:
             endTime = "TBA"
             days = "none"
             courseCode = "NONE 0000"
-            teacherRating =-1
+            teacherRating = 3.8
 
             #Split string by double empty lines
             splitGMcourses = []
@@ -104,7 +104,8 @@ class Parse:
                         "courseCode": courseCode,
                         "days": days,
                         "startTime": startTime,
-                        "endTime": endTime
+                        "endTime": endTime,
+                        "teacherRating" : teacherRating
                         }
                     jsonObject = json.dumps(temp)
                     listjsonObjects.append(jsonObject)
