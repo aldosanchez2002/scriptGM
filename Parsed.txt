@@ -1456,7 +1456,7 @@
 {"teacher": "Luis A Echegoyen ", "crn": "20547", "courseCode": "CHEM 4176", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "James E Becvar ", "crn": "20122", "courseCode": "CHEM 4176", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Suman Sirimulla ", "crn": "26522", "courseCode": "CHEM 4176", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "Russell R Chianelli ", "crn": "20400", "courseCode": "CHEM 4176", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Carlos R Cabrera Martinez ", "crn": "20400", "courseCode": "CHEM 4176", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Jorge Gardea-Torresdey ", "crn": "20548", "courseCode": "CHEM 4176", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Juan Noveron ", "crn": "20552", "courseCode": "CHEM 4176", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Wen-Yee Lee ", "crn": "20549", "courseCode": "CHEM 4176", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
@@ -1482,7 +1482,7 @@
 {"teacher": "Luis A Echegoyen ", "crn": "20507", "courseCode": "CHEM 4376", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Ricardo Andres Bernal ", "crn": "20124", "courseCode": "CHEM 4376", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Suman Sirimulla ", "crn": "25963", "courseCode": "CHEM 4376", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "Russell R Chianelli ", "crn": "20399", "courseCode": "CHEM 4376", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Carlos R Cabrera Martinez ", "crn": "20399", "courseCode": "CHEM 4376", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Jorge Gardea-Torresdey ", "crn": "20554", "courseCode": "CHEM 4376", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Wen-Yee Lee ", "crn": "20555", "courseCode": "CHEM 4376", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Carl Dirk ", "crn": "20484", "courseCode": "CHEM 4376", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
@@ -2823,6 +2823,7 @@
 {"teacher": "Martine C Ceberio ", "crn": "26630", "courseCode": "CS 6398", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Natalia Villanueva Rosales ", "crn": "22529", "courseCode": "CS 6398", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Vladik Kreinovich ", "crn": "21207", "courseCode": "CS 6398", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Deepak K Tosh ", "crn": "29631", "courseCode": "CS 6398", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Olac Fuentes ", "crn": "21209", "courseCode": "CS 6398", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Ann C Gates ", "crn": "21211", "courseCode": "CS 6398", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Nigel Ward ", "crn": "21213", "courseCode": "CS 6398", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
@@ -3104,6 +3105,7 @@
 {"teacher": "Paul A Carrola ", "crn": "29628", "courseCode": "EDPC 5170", "days": " F ", "startTime": "5:00 pm ", "endTime": " 7:50 pm ", "teacherRating": 3.8}
 {"teacher": "Sarah E Peterson ", "crn": "25544", "courseCode": "EDPC 5310", "days": " W ", "startTime": "5:00 pm ", "endTime": " 7:50 pm ", "teacherRating": 3.8}
 {"teacher": "Sarah E Peterson ", "crn": "24685", "courseCode": "EDPC 5317", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "TBA", "crn": "29630", "courseCode": "EDPC 5317", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Marie Nicole Zubiate ", "crn": "25546", "courseCode": "EDPC 5320", "days": " R ", "startTime": "5:00 pm ", "endTime": " 7:50 pm ", "teacherRating": 3.8}
 {"teacher": "Paul A Carrola ", "crn": "25269", "courseCode": "EDPC 5322", "days": " M ", "startTime": "5:00 pm ", "endTime": " 7:50 pm ", "teacherRating": 3.8}
 {"teacher": "Sang Min Shin ", "crn": "26672", "courseCode": "EDPC 5322", "days": " M ", "startTime": "5:00 pm ", "endTime": " 7:50 pm ", "teacherRating": 3.8}
@@ -3301,6 +3303,7 @@
 {"teacher": "Raymond C Rumpf ", "crn": "29338", "courseCode": "EE 4386", "days": " MW ", "startTime": "9:00 am ", "endTime": " 10:20 am ", "teacherRating": 3.8}
 {"teacher": "David Guillermo Guzman ", "crn": "25138", "courseCode": "EE 4387", "days": " TR ", "startTime": "6:00 pm ", "endTime": " 7:20 pm ", "teacherRating": 3.8}
 {"teacher": "Virgilio Ernesto Gonzalez ", "crn": "29339", "courseCode": "EE 4388", "days": " W ", "startTime": "6:00 pm ", "endTime": " 8:50 pm ", "teacherRating": 3.8}
+{"teacher": "Virgilio Ernesto Gonzalez ", "crn": "25858", "courseCode": "EE 4394", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Benjamin Flores ", "crn": "25922", "courseCode": "EE 4394", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Robert C Roberts ", "crn": "25981", "courseCode": "EE 4394", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Eric Galvan ", "crn": "22781", "courseCode": "EE 4395", "days": " TR ", "startTime": "6:30 pm ", "endTime": " 7:50 pm ", "teacherRating": 3.8}
@@ -3328,6 +3331,7 @@
 {"teacher": "Paras Mandal ", "crn": "23523", "courseCode": "EE 5388", "days": " TR ", "startTime": "4:30 pm ", "endTime": " 5:50 pm ", "teacherRating": 3.8}
 {"teacher": "Michael P Mcgarry ", "crn": "21617", "courseCode": "EE 5390", "days": " MW ", "startTime": "4:30 pm ", "endTime": " 5:50 pm ", "teacherRating": 3.8}
 {"teacher": "Thomas Boland ", "crn": "29586", "courseCode": "EE 5390", "days": " F ", "startTime": "9:00 am ", "endTime": " 11:50 am ", "teacherRating": 3.8}
+{"teacher": "Soheil Nazarian ", "crn": "29622", "courseCode": "EE 5390", "days": " TR ", "startTime": "4:30 pm ", "endTime": " 5:50 pm ", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "29596", "courseCode": "EE 5390", "days": " TR ", "startTime": "6:00 pm ", "endTime": " 7:20 pm ", "teacherRating": 3.8}
 {"teacher": "Yuanrui Sang ", "crn": "26366", "courseCode": "EE 5390", "days": " MW ", "startTime": "6:00 pm ", "endTime": " 7:20 pm ", "teacherRating": 3.8}
 {"teacher": "Eric Galvan ", "crn": "26373", "courseCode": "EE 5390", "days": " TR ", "startTime": "6:30 pm ", "endTime": " 7:50 pm ", "teacherRating": 3.8}
@@ -3378,7 +3382,7 @@
 {"teacher": "Patricia Nava ", "crn": "22787", "courseCode": "EE 6394", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Michael P Mcgarry ", "crn": "22788", "courseCode": "EE 6394", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "John Moya ", "crn": "22791", "courseCode": "EE 6394", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "Wei Qian ", "crn": "22792", "courseCode": "EE 6394", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Ruimin Ke ", "crn": "22792", "courseCode": "EE 6394", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Virgilio Ernesto Gonzalez ", "crn": "22793", "courseCode": "EE 6394", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Robert C Roberts ", "crn": "28001", "courseCode": "EE 6394", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "John Moya ", "crn": "28023", "courseCode": "EE 6394", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
@@ -3595,11 +3599,11 @@
 {"teacher": "Md Nurunnabi ", "crn": "22565", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Jorge Gardea-Torresdey ", "crn": "22547", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Hugo Alberto Gutierrez-Jurado ", "crn": "20452", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "Jose F Espiritu Nolasco ", "crn": "22548", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Felicia Manciu ", "crn": "22548", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Vanessa L Lougheed ", "crn": "26486", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Ahmed El-Gendy ", "crn": "26577", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Md Nurunnabi ", "crn": "20455", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "Sukla Roychowdhury ", "crn": "26578", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Felicia Manciu ", "crn": "26578", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Craig E Tweedie ", "crn": "24911", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Alex Mayer ", "crn": "20480", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Craig E Tweedie ", "crn": "23553", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
@@ -3608,7 +3612,7 @@
 {"teacher": "Anthony J Darrouzet-Nardi ", "crn": "26584", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Anthony J Darrouzet-Nardi ", "crn": "26585", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Vanessa L Lougheed ", "crn": "21994", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "Sreeprasad T Sreenivasan ", "crn": "24628", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Laura V Alvarez Rueda ", "crn": "24628", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Sreeprasad T Sreenivasan ", "crn": "20606", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Craig E Tweedie ", "crn": "24912", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Eric David Smith ", "crn": "24923", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
@@ -3634,7 +3638,7 @@
 {"teacher": "Peter Golding ", "crn": "24618", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Jorge Gardea-Torresdey ", "crn": "20646", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Mahesh Narayan ", "crn": "24637", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "Juan Noveron ", "crn": "24638", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Taslim A Al-Hilal ", "crn": "24638", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Felicia Manciu ", "crn": "20660", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Rosa Fitzgerald ", "crn": "20670", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Rosa Fitzgerald ", "crn": "20671", "courseCode": "ESE 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
@@ -3658,7 +3662,7 @@
 {"teacher": "Juan Noveron ", "crn": "26540", "courseCode": "ESE 6399", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Jose F Espiritu Nolasco ", "crn": "22516", "courseCode": "ESE 6399", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Sreeprasad T Sreenivasan ", "crn": "22518", "courseCode": "ESE 6399", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "Philip C Goodell ", "crn": "22996", "courseCode": "ESE 6399", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Sreenath Chalil Madathil ", "crn": "22996", "courseCode": "ESE 6399", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Sukla Roychowdhury ", "crn": "23012", "courseCode": "ESE 6399", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Heidi A Taboada Jimenez ", "crn": "23504", "courseCode": "ESE 6399", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Md Nurunnabi ", "crn": "25400", "courseCode": "ESE 6399", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
@@ -3979,7 +3983,9 @@
 {"teacher": "Nicholas Pingitore ", "crn": "24192", "courseCode": "GEOL 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Aaron Velasco ", "crn": "24193", "courseCode": "GEOL 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Jie Xu ", "crn": "29616", "courseCode": "GEOL 6398", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Jose Miguel Hurtado ", "crn": "29629", "courseCode": "GEOL 6398", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Marianne Karplus ", "crn": "29480", "courseCode": "GEOL 6399", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Laura F Serpa ", "crn": "29632", "courseCode": "GEOL 6399", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Marianne Karplus ", "crn": "28506", "courseCode": "GEOP 3320A", "days": " MW ", "startTime": "9:00 am ", "endTime": " 10:20 am ", "teacherRating": 3.8}
 {"teacher": "Julien A Chaput ", "crn": "28082", "courseCode": "GEOP 4367", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Diane Doser ", "crn": "28252", "courseCode": "GEOP 4420A", "days": " MW ", "startTime": "12:30 pm ", "endTime": " 1:20 pm ", "teacherRating": 3.8}
@@ -4339,10 +4345,8 @@
 {"teacher": "Sean Tait Miller ", "crn": "24688", "courseCode": "KIN 4330", "days": " F ", "startTime": "10:30 am ", "endTime": " 11:50 am ", "teacherRating": 3.8}
 {"teacher": "Kisuk Min ", "crn": "26139", "courseCode": "KIN 4331", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Katherine Ann Poteet ", "crn": "20901", "courseCode": "KIN 4334", "days": " T ", "startTime": "1:30 pm ", "endTime": " 3:20 pm ", "teacherRating": 3.8}
-{"teacher": "Katherine Ann Poteet ", "crn": "24621", "courseCode": "KIN 4334", "days": " M ", "startTime": "12:30 pm ", "endTime": " 3:20 pm ", "teacherRating": 3.8}
 {"teacher": "Katherine Ann Poteet ", "crn": "21329", "courseCode": "KIN 4334", "days": " T ", "startTime": "9:30 am ", "endTime": " 12:20 pm ", "teacherRating": 3.8}
 {"teacher": "Katherine Ann Poteet ", "crn": "21988", "courseCode": "KIN 4334", "days": " W ", "startTime": "12:30 pm ", "endTime": " 3:20 pm ", "teacherRating": 3.8}
-{"teacher": "Katherine Ann Poteet ", "crn": "28295", "courseCode": "KIN 4334", "days": " T ", "startTime": "3:30 pm ", "endTime": " 5:20 pm ", "teacherRating": 3.8}
 {"teacher": "Katherine Ann Poteet ", "crn": "28296", "courseCode": "KIN 4334", "days": " W ", "startTime": "3:30 pm ", "endTime": " 6:20 pm ", "teacherRating": 3.8}
 {"teacher": "Matthew David Segovia ", "crn": "28298", "courseCode": "KIN 4341", "days": " TR ", "startTime": "4:30 pm ", "endTime": " 5:50 pm ", "teacherRating": 3.8}
 {"teacher": "Katherine Ann Poteet ", "crn": "29529", "courseCode": "KIN 4350", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
@@ -4799,12 +4803,12 @@
 {"teacher": "Martha Alicia Delgado ", "crn": "24622", "courseCode": "MATH 2303", "days": " MW ", "startTime": "12:00 pm ", "endTime": " 1:20 pm ", "teacherRating": 3.8}
 {"teacher": "Martha Alicia Delgado ", "crn": "23148", "courseCode": "MATH 2303", "days": " MW ", "startTime": "10:30 am ", "endTime": " 11:50 am ", "teacherRating": 3.8}
 {"teacher": "Kien Lim ", "crn": "25164", "courseCode": "MATH 2303", "days": " TR ", "startTime": "1:30 pm ", "endTime": " 2:50 pm ", "teacherRating": 3.8}
-{"teacher": "Saul Antonio Soto ", "crn": "21733", "courseCode": "MATH 2304", "days": " MW ", "startTime": "10:30 am ", "endTime": " 11:50 am ", "teacherRating": 3.8}
-{"teacher": "Saul Antonio Soto ", "crn": "27911", "courseCode": "MATH 2304", "days": " TR ", "startTime": "12:00 pm ", "endTime": " 1:20 pm ", "teacherRating": 3.8}
+{"teacher": "Jeremy Lee Ramirez ", "crn": "21733", "courseCode": "MATH 2304", "days": " MW ", "startTime": "10:30 am ", "endTime": " 11:50 am ", "teacherRating": 3.8}
+{"teacher": "Martha Alicia Delgado ", "crn": "27911", "courseCode": "MATH 2304", "days": " TR ", "startTime": "12:00 pm ", "endTime": " 1:20 pm ", "teacherRating": 3.8}
 {"teacher": "Martha Alicia Delgado ", "crn": "21734", "courseCode": "MATH 2304", "days": " MW ", "startTime": "3:00 pm ", "endTime": " 4:20 pm ", "teacherRating": 3.8}
 {"teacher": "Luis Valdez-Sanchez ", "crn": "22512", "courseCode": "MATH 2313", "days": " TR ", "startTime": "10:30 am ", "endTime": " 11:50 am ", "teacherRating": 3.8}
 {"teacher": "Miguel Argaez ", "crn": "22533", "courseCode": "MATH 2313", "days": " TR ", "startTime": "3:00 pm ", "endTime": " 4:20 pm ", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "20976", "courseCode": "MATH 2313", "days": " MW ", "startTime": "9:00 am ", "endTime": " 10:20 am ", "teacherRating": 3.8}
+{"teacher": "Julio Cesar Urenda ", "crn": "20976", "courseCode": "MATH 2313", "days": " MW ", "startTime": "9:00 am ", "endTime": " 10:20 am ", "teacherRating": 3.8}
 {"teacher": "Miguel Argaez ", "crn": "24976", "courseCode": "MATH 2313", "days": " TR ", "startTime": "1:30 pm ", "endTime": " 2:50 pm ", "teacherRating": 3.8}
 {"teacher": "Andrew Martin Pownuk ", "crn": "20977", "courseCode": "MATH 2313", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Osvaldo Mendez ", "crn": "24611", "courseCode": "MATH 2313", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
@@ -5034,9 +5038,9 @@
 {"teacher": "TBA", "crn": "25445", "courseCode": "MECH 6396", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "25912", "courseCode": "MECH 6396", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "25919", "courseCode": "MECH 6396", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "25920", "courseCode": "MECH 6396", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Vinod Kumar ", "crn": "25920", "courseCode": "MECH 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "25936", "courseCode": "MECH 6396", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "25942", "courseCode": "MECH 6396", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Alejandra Guadalupe Castellanos ", "crn": "25942", "courseCode": "MECH 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "25944", "courseCode": "MECH 6396", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Md Mahamudur Rahman ", "crn": "25952", "courseCode": "MECH 6396", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "25945", "courseCode": "MECH 6396", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
@@ -5792,47 +5796,47 @@
 {"teacher": "Yvonne Elias ", "crn": "27296", "courseCode": "NURS 4714", "days": " WR ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Dora Maria Carcoba ", "crn": "27358", "courseCode": "NURS 5101", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Melanie Jean McDowell ", "crn": "27359", "courseCode": "NURS 5101", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27360", "courseCode": "NURS 5101", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "TBA", "crn": "27360", "courseCode": "NURS 5101", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Amy Mc Laughlin Field ", "crn": "27884", "courseCode": "NURS 5122", "days": " F ", "startTime": "6:00 pm ", "endTime": " 7:30 pm ", "teacherRating": 3.8}
 {"teacher": "Ezekiel James Sanchez ", "crn": "28366", "courseCode": "NURS 5128", "days": " F ", "startTime": "6:00 pm ", "endTime": " 7:30 pm ", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27327", "courseCode": "NURS 5130", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27328", "courseCode": "NURS 5130", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27329", "courseCode": "NURS 5130", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27330", "courseCode": "NURS 5130", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27331", "courseCode": "NURS 5130", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27321", "courseCode": "NURS 5202", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Elizabeth Hagelsieb-Escalera ", "crn": "27327", "courseCode": "NURS 5130", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Elizabeth Hagelsieb-Escalera ", "crn": "27328", "courseCode": "NURS 5130", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Monica Saucedo Vasquez ", "crn": "27329", "courseCode": "NURS 5130", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Monica Saucedo Vasquez ", "crn": "27330", "courseCode": "NURS 5130", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Monica Saucedo Vasquez ", "crn": "27331", "courseCode": "NURS 5130", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Roberta Ann Mercer ", "crn": "27321", "courseCode": "NURS 5202", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Roberta Ann Mercer ", "crn": "27324", "courseCode": "NURS 5203", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Dora Maria Carcoba ", "crn": "27226", "courseCode": "NURS 5209", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Roberta Ann Mercer ", "crn": "27354", "courseCode": "NURS 5210", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Alejandra Valenzuela ", "crn": "27356", "courseCode": "NURS 5211", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27350", "courseCode": "NURS 5214", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27352", "courseCode": "NURS 5215", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Alejandra Valenzuela ", "crn": "27350", "courseCode": "NURS 5214", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Alejandra Valenzuela ", "crn": "27352", "courseCode": "NURS 5215", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Franchesca Elizabeth Nunez ", "crn": "27885", "courseCode": "NURS 5219", "days": " S ", "startTime": "9:00 am ", "endTime": " 12:00 pm ", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27351", "courseCode": "NURS 5221", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27353", "courseCode": "NURS 5222", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Alejandra Valenzuela ", "crn": "27351", "courseCode": "NURS 5221", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Alejandra Valenzuela ", "crn": "27353", "courseCode": "NURS 5222", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Isabel Cristina Zuniga ", "crn": "27361", "courseCode": "NURS 5223", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Dora Maria Carcoba ", "crn": "27362", "courseCode": "NURS 5224", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Dora Maria Carcoba ", "crn": "27363", "courseCode": "NURS 5224", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27364", "courseCode": "NURS 5224", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Dora Maria Carcoba ", "crn": "27364", "courseCode": "NURS 5224", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Dora Maria Carcoba ", "crn": "27227", "courseCode": "NURS 5228", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Guillermina Alicia Nelson ", "crn": "27228", "courseCode": "NURS 5228", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Melanie Jean McDowell ", "crn": "27229", "courseCode": "NURS 5228", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Elizabeth Hagelsieb-Escalera ", "crn": "27332", "courseCode": "NURS 5229", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Jana Nicole Gainok ", "crn": "27333", "courseCode": "NURS 5230", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27334", "courseCode": "NURS 5231", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27335", "courseCode": "NURS 5231", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Elizabeth Hagelsieb-Escalera ", "crn": "27334", "courseCode": "NURS 5231", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Elizabeth Hagelsieb-Escalera ", "crn": "27335", "courseCode": "NURS 5231", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "27336", "courseCode": "NURS 5231", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27337", "courseCode": "NURS 5231", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27919", "courseCode": "NURS 5231", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Monica Saucedo Vasquez ", "crn": "27337", "courseCode": "NURS 5231", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Monica Saucedo Vasquez ", "crn": "27919", "courseCode": "NURS 5231", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Ezekiel James Sanchez ", "crn": "27886", "courseCode": "NURS 5232", "days": " F ", "startTime": "6:00 pm ", "endTime": " 7:30 pm ", "teacherRating": 3.8}
 {"teacher": "Amy Mc Laughlin Field ", "crn": "27893", "courseCode": "NURS 5233", "days": " S ", "startTime": "9:00 am ", "endTime": " 12:00 pm ", "teacherRating": 3.8}
 {"teacher": "Amy Mc Laughlin Field ", "crn": "28365", "courseCode": "NURS 5234", "days": " S ", "startTime": "6:00 pm ", "endTime": " 7:30 pm ", "teacherRating": 3.8}
 {"teacher": "Amy Mc Laughlin Field ", "crn": "28367", "courseCode": "NURS 5235", "days": " S ", "startTime": "9:00 am ", "endTime": " 12:00 pm ", "teacherRating": 3.8}
 {"teacher": "Guillermina Solis ", "crn": "27338", "courseCode": "NURS 5236", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27339", "courseCode": "NURS 5237", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27340", "courseCode": "NURS 5237", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27341", "courseCode": "NURS 5237", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27342", "courseCode": "NURS 5237", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Monica Saucedo Vasquez ", "crn": "27339", "courseCode": "NURS 5237", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Monica Saucedo Vasquez ", "crn": "27340", "courseCode": "NURS 5237", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Elizabeth Hagelsieb-Escalera ", "crn": "27341", "courseCode": "NURS 5237", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Elizabeth Hagelsieb-Escalera ", "crn": "27342", "courseCode": "NURS 5237", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "27343", "courseCode": "NURS 5237", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "28392", "courseCode": "NURS 5237", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "28393", "courseCode": "NURS 5237", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
@@ -5841,25 +5845,24 @@
 {"teacher": "TBA", "crn": "29550", "courseCode": "NURS 5238", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "29551", "courseCode": "NURS 5238", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Amy Mc Laughlin Field ", "crn": "27344", "courseCode": "NURS 5244", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27345", "courseCode": "NURS 5245", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27346", "courseCode": "NURS 5245", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27347", "courseCode": "NURS 5245", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27348", "courseCode": "NURS 5245", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27349", "courseCode": "NURS 5245", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "28394", "courseCode": "NURS 5245", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "28395", "courseCode": "NURS 5245", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Monica Saucedo Vasquez ", "crn": "27345", "courseCode": "NURS 5245", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Monica Saucedo Vasquez ", "crn": "27346", "courseCode": "NURS 5245", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Elizabeth Hagelsieb-Escalera ", "crn": "27347", "courseCode": "NURS 5245", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Elizabeth Hagelsieb-Escalera ", "crn": "27348", "courseCode": "NURS 5245", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Sondra Susan Skory ", "crn": "27349", "courseCode": "NURS 5245", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Laura Patricia Herrera ", "crn": "28394", "courseCode": "NURS 5245", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Sondra Susan Skory ", "crn": "28395", "courseCode": "NURS 5245", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Mercedes Martinez ", "crn": "27355", "courseCode": "NURS 5246", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27322", "courseCode": "NURS 5247", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27323", "courseCode": "NURS 5247", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27325", "courseCode": "NURS 5248", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27326", "courseCode": "NURS 5248", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Alejandra Valenzuela ", "crn": "27322", "courseCode": "NURS 5247", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Alejandra Valenzuela ", "crn": "27323", "courseCode": "NURS 5247", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "TBA", "crn": "27325", "courseCode": "NURS 5248", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Alejandra Valenzuela ", "crn": "27326", "courseCode": "NURS 5248", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Mercedes Martinez ", "crn": "27225", "courseCode": "NURS 5254", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Lisa L Hennessy ", "crn": "28380", "courseCode": "NURS 5300", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Hsueh-Fen S Kao ", "crn": "28374", "courseCode": "NURS 5310", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Hsueh-Fen S Kao ", "crn": "28375", "courseCode": "NURS 5310", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "28414", "courseCode": "NURS 5310", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27308", "courseCode": "NURS 5316", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27309", "courseCode": "NURS 5317", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Alejandra Valenzuela ", "crn": "27308", "courseCode": "NURS 5316", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Alejandra Valenzuela ", "crn": "27309", "courseCode": "NURS 5317", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Franchesca Elizabeth Nunez ", "crn": "27220", "courseCode": "NURS 5319", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Franchesca Elizabeth Nunez ", "crn": "27221", "courseCode": "NURS 5319", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Isabel Cristina Zuniga ", "crn": "27357", "courseCode": "NURS 5324", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
@@ -5876,24 +5879,22 @@
 {"teacher": "Maria Alvarez Amaya ", "crn": "28376", "courseCode": "NURS 5370", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Gloria E", "crn": "28377", "courseCode": "NURS 5370", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "27316", "courseCode": "NURS 5375", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27317", "courseCode": "NURS 5375", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27318", "courseCode": "NURS 5376", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27319", "courseCode": "NURS 5376", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Alejandra Valenzuela ", "crn": "27318", "courseCode": "NURS 5376", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Diane Burn Monsivais ", "crn": "29246", "courseCode": "NURS 5380", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Dora Maria Carcoba ", "crn": "27310", "courseCode": "NURS 5401", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Melanie Jean McDowell ", "crn": "27311", "courseCode": "NURS 5401", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27312", "courseCode": "NURS 5401", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27313", "courseCode": "NURS 5402", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27314", "courseCode": "NURS 5402", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "TBA", "crn": "27312", "courseCode": "NURS 5401", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Melanie Jean McDowell ", "crn": "27313", "courseCode": "NURS 5402", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Melanie Jean McDowell ", "crn": "27314", "courseCode": "NURS 5402", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "27315", "courseCode": "NURS 5402", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "27233", "courseCode": "NURS 5672", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27234", "courseCode": "NURS 5672", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27235", "courseCode": "NURS 5672", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "28397", "courseCode": "NURS 5672", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Monica Saucedo Vasquez ", "crn": "27234", "courseCode": "NURS 5672", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Monica Saucedo Vasquez ", "crn": "27235", "courseCode": "NURS 5672", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Elizabeth Hagelsieb-Escalera ", "crn": "28397", "courseCode": "NURS 5672", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Elizabeth Ann Portugal ", "crn": "27408", "courseCode": "NURS 6191", "days": " S ", "startTime": "9:00 am ", "endTime": " 11:30 am ", "teacherRating": 3.8}
 {"teacher": "Holly Jill Mata ", "crn": "28362", "courseCode": "NURS 6319", "days": " F ", "startTime": "12:00 pm ", "endTime": " 7:30 pm ", "teacherRating": 3.8}
 {"teacher": "Roberta Ann Mercer ", "crn": "27433", "courseCode": "NURS 6320", "days": " S ", "startTime": "1:00 pm ", "endTime": " 9:00 pm ", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "27434", "courseCode": "NURS 6338", "days": " U ", "startTime": "8:00 am ", "endTime": " 4:00 pm ", "teacherRating": 3.8}
+{"teacher": "Hector R Morales ", "crn": "27434", "courseCode": "NURS 6338", "days": " U ", "startTime": "8:00 am ", "endTime": " 4:00 pm ", "teacherRating": 3.8}
 {"teacher": "Hector R Morales ", "crn": "27517", "courseCode": "NURS 6893", "days": " S ", "startTime": "9:00 am ", "endTime": " 12:00 pm ", "teacherRating": 3.8}
 {"teacher": "Dahlia Cavazos Castillo ", "crn": "26121", "courseCode": "OT 5301", "days": " T ", "startTime": "1:00 pm ", "endTime": " 2:50 pm ", "teacherRating": 3.8}
 {"teacher": "Grisel Contreras ", "crn": "26122", "courseCode": "OT 5301", "days": " R ", "startTime": "9:00 am ", "endTime": " 11:50 am ", "teacherRating": 3.8}
@@ -5909,7 +5910,7 @@
 {"teacher": "Cecilia Fierro ", "crn": "26131", "courseCode": "OT 5629", "days": " R ", "startTime": "8:00 am ", "endTime": " 11:50 am ", "teacherRating": 3.8}
 {"teacher": "Cecilia Fierro ", "crn": "26132", "courseCode": "OT 5629", "days": " R ", "startTime": "1:00 pm ", "endTime": " 4:50 pm ", "teacherRating": 3.8}
 {"teacher": "Timothy A Tu ", "crn": "26133", "courseCode": "OT 5629", "days": " R ", "startTime": "1:00 pm ", "endTime": " 4:50 pm ", "teacherRating": 3.8}
-{"teacher": "Timothy A Tu ", "crn": "28552", "courseCode": "OT 5640", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Timothy A Tu ", "crn": "28552", "courseCode": "OT 5640", "days": " MTWRF ", "startTime": "8:00 am ", "endTime": " 5:00 pm ", "teacherRating": 3.8}
 {"teacher": "Yang Yang ", "crn": "22700", "courseCode": "OSCM 3321", "days": " MW ", "startTime": "10:30 am ", "endTime": " 11:50 am ", "teacherRating": 3.8}
 {"teacher": "Jose Humberto Ablanedo Rosas ", "crn": "22701", "courseCode": "OSCM 3321", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Ismael Ojeda ", "crn": "22702", "courseCode": "OSCM 3321", "days": " MW ", "startTime": "6:00 pm ", "endTime": " 7:20 pm ", "teacherRating": 3.8}
@@ -6178,8 +6179,7 @@
 {"teacher": "Lin Li ", "crn": "29236", "courseCode": "PHYS 2321", "days": " F ", "startTime": "9:00 am ", "endTime": " 9:50 am ", "teacherRating": 3.8}
 {"teacher": "Chunqiang Li ", "crn": "22481", "courseCode": "PHYS 3243", "days": " MW ", "startTime": "1:30 pm ", "endTime": " 4:20 pm ", "teacherRating": 3.8}
 {"teacher": "Chunqiang Li ", "crn": "27424", "courseCode": "PHYS 3243", "days": " MW ", "startTime": "4:30 pm ", "endTime": " 7:20 pm ", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "23314", "courseCode": "PHYS 3280", "days": "TBA", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "29254", "courseCode": "PHYS 3280", "days": " M ", "startTime": "4:30 pm ", "endTime": " 5:50 pm ", "teacherRating": 3.8}
+{"teacher": "TBA", "crn": "23314", "courseCode": "PHYS 3280", "days": " M ", "startTime": "4:30 pm ", "endTime": " 5:50 pm ", "teacherRating": 3.8}
 {"teacher": "Chunqiang Li ", "crn": "21900", "courseCode": "PHYS 3323", "days": " MW ", "startTime": "12:00 pm ", "endTime": " 1:20 pm ", "teacherRating": 3.8}
 {"teacher": "Jorge Alberto Munoz ", "crn": "22129", "courseCode": "PHYS 3331", "days": " MW ", "startTime": "9:00 am ", "endTime": " 10:20 am ", "teacherRating": 3.8}
 {"teacher": "Tunna Baruah ", "crn": "21980", "courseCode": "PHYS 3352", "days": " TR ", "startTime": "3:00 pm ", "endTime": " 4:20 pm ", "teacherRating": 3.8}
@@ -6266,6 +6266,7 @@
 {"teacher": "Rajendra Zope ", "crn": "21502", "courseCode": "PHYS 5696", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Marcos Menchaca ", "crn": "22721", "courseCode": "POLS 2310", "days": " MW ", "startTime": "12:00 pm ", "endTime": " 1:20 pm ", "teacherRating": 3.8}
 {"teacher": "Abha Singh ", "crn": "22722", "courseCode": "POLS 2310", "days": " TR ", "startTime": "9:00 am ", "endTime": " 10:20 am ", "teacherRating": 3.8}
+{"teacher": "Jesse Adam Kapenga ", "crn": "22723", "courseCode": "POLS 2310", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Patrick Timmons ", "crn": "25608", "courseCode": "POLS 2310", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Patrick Timmons ", "crn": "25611", "courseCode": "POLS 2310", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Patrick Timmons ", "crn": "25612", "courseCode": "POLS 2310", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
@@ -7778,7 +7779,7 @@
 {"teacher": "TBA", "crn": "22440", "courseCode": "SOWK 4390", "days": " MW ", "startTime": "7:00 am ", "endTime": " 8:50 am ", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "22441", "courseCode": "SOWK 4390", "days": " MW ", "startTime": "7:00 am ", "endTime": " 8:50 am ", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "24222", "courseCode": "SOWK 4390", "days": " MW ", "startTime": "7:00 am ", "endTime": " 8:50 am ", "teacherRating": 3.8}
-{"teacher": "TBA", "crn": "26452", "courseCode": "SOWK 5178", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
+{"teacher": "Alma Rosa Armendariz ", "crn": "26452", "courseCode": "SOWK 5178", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "22429", "courseCode": "SOWK 5313", "days": " M ", "startTime": "6:00 pm ", "endTime": " 8:50 pm ", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "25526", "courseCode": "SOWK 5313", "days": " W ", "startTime": "6:00 pm ", "endTime": " 8:50 pm ", "teacherRating": 3.8}
 {"teacher": "Jason R Mallonee ", "crn": "28426", "courseCode": "SOWK 5315", "days": " M ", "startTime": "6:00 pm ", "endTime": " 8:50 pm ", "teacherRating": 3.8}
@@ -7788,11 +7789,10 @@
 {"teacher": "Alma Rosa Armendariz ", "crn": "23081", "courseCode": "SOWK 5336", "days": " R ", "startTime": "6:00 pm ", "endTime": " 8:00 pm ", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "26498", "courseCode": "SOWK 5336", "days": " S ", "startTime": "8:30 am ", "endTime": " 10:20 am ", "teacherRating": 3.8}
 {"teacher": "Alma Rosa Armendariz ", "crn": "22482", "courseCode": "SOWK 5346", "days": " R ", "startTime": "6:00 pm ", "endTime": " 8:00 pm ", "teacherRating": 3.8}
-{"teacher": "Alma Rosa Armendariz ", "crn": "23082", "courseCode": "SOWK 5346", "days": " S ", "startTime": "8:30 am ", "endTime": " 10:30 am ", "teacherRating": 3.8}
+{"teacher": "Alma Rosa Armendariz ", "crn": "23082", "courseCode": "SOWK 5346", "days": " S ", "startTime": "8:20 am ", "endTime": " 10:20 am ", "teacherRating": 3.8}
 {"teacher": "Rosario Elena Olivera ", "crn": "22426", "courseCode": "SOWK 5360", "days": " S ", "startTime": "10:30 am ", "endTime": " 1:20 pm ", "teacherRating": 3.8}
 {"teacher": "Irene Werthmann ", "crn": "22528", "courseCode": "SOWK 5378", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Rosario Elena Olivera ", "crn": "24941", "courseCode": "SOWK 5378", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
-{"teacher": "Alma Rosa Armendariz ", "crn": "22906", "courseCode": "SOWK 5378", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "TBA", "crn": "22576", "courseCode": "SOWK 5378", "days": "  ", "startTime": "TBA", "endTime": "TBA", "teacherRating": 3.8}
 {"teacher": "Eva Margarita Moya ", "crn": "22427", "courseCode": "SOWK 5382", "days": " S ", "startTime": "10:30 am ", "endTime": " 1:20 pm ", "teacherRating": 3.8}
 {"teacher": "Rosario Elena Olivera ", "crn": "25531", "courseCode": "SOWK 5383", "days": " T ", "startTime": "6:00 pm ", "endTime": " 8:50 pm ", "teacherRating": 3.8}

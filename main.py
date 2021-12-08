@@ -2,6 +2,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from Parse import Parse
+from RMP import RMP
 
 # Get chorome Driver
 driver = webdriver.Chrome('/Users/aldo/PycharmProjects/scriptGM/chromedriver')
@@ -36,8 +37,12 @@ parsed= Parse.Parse(HTML_no_tags)
 file.close()
 print('DONE PARSE HTML no tags to JSON')
 file = open('/Users/aldo/PycharmProjects/scriptGM/Parsed.txt','w')
-file.write(parsed)
+file.write(str(parsed))
 print('DONE JSON txt file')
 
 # END
 driver.close()
+
+RMP.main()
+
+
