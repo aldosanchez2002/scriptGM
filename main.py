@@ -32,17 +32,10 @@ file.close()
 #Turn HTML TO JSON strings and put on txt file
 file = open('/Users/aldo/PycharmProjects/scriptGM/HTML_no-tags.txt','r')
 HTML_no_tags = file.readlines()
-print('DONE reading HTML no tags')
 parsed= Parse.Parse(HTML_no_tags)
 file.close()
-print('DONE PARSE HTML no tags to JSON')
-file = open('/Users/aldo/PycharmProjects/scriptGM/Parsed.txt','w')
-file.write(str(parsed))
-print('DONE JSON txt file')
 
 # END
 driver.close()
-
-RMP.main()
 
 

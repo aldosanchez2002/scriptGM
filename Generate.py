@@ -30,7 +30,13 @@ class Generate:
             for course in courses:
                 if cc in course.split("\""):
                     found=True
-                    temp.append(json.loads(course))
+                    try:
+                        temp.append(json.loads(course))
+                    except:
+                        print('failed to load')
+                        print(course)
+                        temp.append(json.loads(course))
+
             possibleCrns.append(temp)
             if not found:
                 print('invalid')

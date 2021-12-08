@@ -117,16 +117,15 @@ class Parse:
                     }
                 jsonObject = json.dumps(temp)
                 listjsonObjects.append(jsonObject)
-                file.write(jsonObject)
-                file.write('\n')
+                file.write(jsonObject+'\n')
                 print(jsonObject)
                 print()
-        return listjsonObjects
+        Parse.addToParsedTXT(Parse,listjsonObjects)
 
-    #Turn HTML TO JSON strings and put on txt file
-    file = open('/Users/aldo/PycharmProjects/scriptGM/HTML_no-tags.txt','r')
-    HTML_no_tags = file.readlines()
-    print('DONE reading HTML no tags')
-    parsed= Parse(HTML_no_tags)
-    file.close()
-    print('DONE JSON txt file')
+        # Turn HTML TO JSON strings and put on txt file
+    def addToParsedTXT(self,parsed):
+        file = open('/Users/aldo/PycharmProjects/scriptGM/Parsed.txt', 'w')
+        for course in parsed:
+            file.write(course)
+            file.write('\n')
+        print('DONE JSON txt file')
