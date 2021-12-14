@@ -39,8 +39,8 @@ class Generate:
 
             possibleCrns.append(temp)
             if not found:
-                print('invalid')
-                return temp
+                print('invalid course: '+str(cc))
+                return []
         return possibleCrns
 
     def sortByNumOptions(self, allOptions):
@@ -72,6 +72,8 @@ class Generate:
                 t = option['teacher']
                 if t in seenteachers:
                     teacherRating = seenteachers[t]
+                elif t == 'TBA':
+                    teacherRating=3.8
                 else:
                     #build url from teacher name
                     splitTeacherName = t.split(" ")
@@ -119,7 +121,6 @@ class Generate:
         #   [[A1,A2,A3,A4],[B1,B2],[C1]]
         # Example output:
         #   [[A1,B1,C1],[A1,B2,C1],[A2,B2,C1]]
-        print(len(list))
         temp=[]
         validCombos = []
         for c in list[0]:
@@ -207,19 +208,33 @@ class Generate:
             endPos-=1
             curPos=0
         print('THE BEST OPTION IS')
-        print(list[0])
+        for a in list[0]:
+            print(a)
         print('RMP SCORES:')
         print(scores)
         return list
 
 
 if __name__ == "__main__":
-    courseList=['MATH 2300','CS 2302','UNIV 1301'] # example list
+    courseList=['MATH 3323','CS 2302','EE 2369','EE 2169'] # example list
     options = Generate.makeListOptions(Generate,courseList)
-    sortedOptions = Generate.sortByNumOptions(Generate,options)
-    sortedOptionsWithRMP = Generate.addRMPData(Generate,sortedOptions)
-    validCombinations = Generate.getValidCombinations(Generate,sortedOptionsWithRMP)
-    final = Generate.RMPSort(Generate,validCombinations)
-
+    if len(options) > 0:
+        sortedOptions = Generate.sortByNumOptions(Generate,options)
+        sortedOptionsWithRMP = Generate.addRMPData(Generate,sortedOptions)
+        validCombinations = Generate.getValidCombinations(Generate,sortedOptionsWithRMP)
+        final = Generate.RMPSort(Generate,validCombinations)
+        a=""
+        index=1
+        while(a!='done'):
+            a= input('type \'next\' for next best option or \'done\'')
+            if a == 'next':
+                if index == len(final):
+                    print('no more viable options')
+                    a='done'
+                else:
+                    print('OPTION: ' + str(index+1)+' IS')
+                    for a in final[index]:
+                        print(a)
+                    index+=1
 
 
