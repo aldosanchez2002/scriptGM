@@ -2,6 +2,8 @@ import json
 import re
 
 class Parse:
+    #THIS TURNS THE HTML FROM GOLDMINE INTO COURSE OBJECTS
+    #IT IS USED IN MAIN.PY
     # this method creates Parsed.txt from HTML_no-tags.txt file
     # turns goldmine string into json strings
 
@@ -109,12 +111,13 @@ class Parse:
                 temp = {
                     "teacher": teacher,
                     "crn": crn,
-                    "courseCode": courseCode,
+                    "subject": courseCode.split(' ')[0],
+                    "coursenumber": courseCode.split(' ')[1],
                     "days": days,
-                    "startTime": startTime,
-                    "endTime": endTime,
-                    "teacherRating" : teacherRating
-                    }
+                    "starttime": startTime,
+                    "endtime": endTime,
+                    "teacherrating": teacherRating
+                }
                 jsonObject = json.dumps(temp)
                 listjsonObjects.append(jsonObject)
                 file.write(jsonObject+'\n')

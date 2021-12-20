@@ -2,7 +2,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from Parse import Parse
-from RMP import RMP
+#THIS SCRAPES GOLDMINE AND IT TAKES ABOUT 4 MINUTES TO RUN
 
 # Get chorome Driver
 driver = webdriver.Chrome('/Users/aldo/PycharmProjects/scriptGM/chromedriver')

@@ -3,6 +3,11 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+#THIS GETS THE BEST SCHEDULE AFTER GOLDMINE AND RATE MY PROFESSOR HAVE BEEN SCRAPED
+#IT TAKES ABOUT 90 MINUTES TO RUN AND IT IS NOT IN USE
+
+#NOT IN USE BECAUSE IT WAS MOVED TO JAVASCRIPT
+
 class Generate:
 
     def makeListOptions(self,ccList):
@@ -117,7 +122,7 @@ class Generate:
     def getValidCombinations(self,list):
         #goes through list of courses and returns a list of lists of objects that make us a valid combination
         # a valid combination of coruses contains one of each type where no course times overlap
-        # Example input:
+        # Example input:f
         #   [[A1,A2,A3,A4],[B1,B2],[C1]]
         # Example output:
         #   [[A1,B1,C1],[A1,B2,C1],[A2,B2,C1]]
@@ -130,7 +135,7 @@ class Generate:
 
         for x in range(1,len(list)):
             for course in list[x]:
-                for combo in validCombos:
+                for combo   in validCombos:
                     a = Generate.noOverlapHelper(Generate,course,combo)
                     if len(a)>0:
                         temp.append(a)

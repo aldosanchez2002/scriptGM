@@ -6,20 +6,24 @@ class RMP:
 #THIS ADDS THE RATE MY PROFFESSOR DATA TO ALL OF GOLDMINE DATA
 #IT TAKES ABOUT 90 MINUTES TO RUN AND IT IS NOT IN USE
 
+#NOT IN USE
+
     ########## 0-1000 ###############################
     def run1(self,courses,knownScores):
         RMP = open('/Users/aldo/PycharmProjects/scriptGM/ParsedWithRMP1.txt', 'w')
-        driver = webdriver.Safari().minimize_window()
+        driver = webdriver.Safari()
+        driver.minimize_window()
         for x in range(1000):
             print()
             course = courses[x]
             courseSplit=course.split('\"')
             teacher=courseSplit[3]
-            crn =courseSplit[7]
-            courseCode = courseSplit[11]
-            days=courseSplit[15]
-            startTime=courseSplit[19]
-            endTime=courseSplit[23]
+            crn=courseSplit[7]
+            subject=courseSplit[11]
+            coursenumber= courseSplit[15]
+            days=courseSplit[19]
+            startTime=courseSplit[23]
+            endTime=courseSplit[27]
             teacherRating=0.0
 
             if teacher not in knownScores:
@@ -34,7 +38,6 @@ class RMP:
                 print(url)
 
                 # Get safari
-                driver.minimize_window()
                 driver.get(url)
 
                 #Accept Cookies
@@ -67,7 +70,8 @@ class RMP:
             temp = {
                 "teacher": teacher,
                 "crn": crn,
-                "courseCode": courseCode,
+                "subject": subject,
+                "coursenumber": coursenumber,
                 "days": days,
                 "startTime": startTime,
                 "endTime": endTime,
@@ -84,17 +88,18 @@ class RMP:
     ########## 1000-2000 ###############################
     def run2(self, courses, knownScores):
         RMP = open('/Users/aldo/PycharmProjects/scriptGM/ParsedWithRMP2.txt', 'w')
-        driver = webdriver.Safari().minimize_window()
+        driver = webdriver.Safari()
         for x in range(1000,2000):
             print()
             course = courses[x]
             courseSplit = course.split('\"')
             teacher = courseSplit[3]
             crn = courseSplit[7]
-            courseCode = courseSplit[11]
-            days = courseSplit[15]
-            startTime = courseSplit[19]
-            endTime = courseSplit[23]
+            subject = courseSplit[11]
+            coursenumber = courseSplit[15]
+            days = courseSplit[19]
+            startTime = courseSplit[23]
+            endTime = courseSplit[27]
             teacherRating = 0.0
 
             if teacher not in knownScores:
@@ -109,7 +114,6 @@ class RMP:
                 print(url)
 
                 # Get safari
-                driver.minimize_window()
                 driver.get(url)
 
                 # Accept Cookies
@@ -142,7 +146,8 @@ class RMP:
             temp = {
                 "teacher": teacher,
                 "crn": crn,
-                "courseCode": courseCode,
+                "subject": subject,
+                "coursenumber": coursenumber,
                 "days": days,
                 "startTime": startTime,
                 "endTime": endTime,
@@ -154,6 +159,7 @@ class RMP:
             RMP.write('\n')
             print(str(x) + '/' + str(len(courses)))
         driver.close()
+        return 1
 
     ########## 2000-3000 ###############################
     def run3(self, courses, knownScores):
@@ -165,10 +171,11 @@ class RMP:
             courseSplit = course.split('\"')
             teacher = courseSplit[3]
             crn = courseSplit[7]
-            courseCode = courseSplit[11]
-            days = courseSplit[15]
-            startTime = courseSplit[19]
-            endTime = courseSplit[23]
+            subject = courseSplit[11]
+            coursenumber = courseSplit[15]
+            days = courseSplit[19]
+            startTime = courseSplit[23]
+            endTime = courseSplit[27]
             teacherRating = 0.0
 
             if teacher not in knownScores:
@@ -183,7 +190,6 @@ class RMP:
                 print(url)
 
                 # Get safari
-                driver.minimize_window()
                 driver.get(url)
 
                 # Accept Cookies
@@ -216,7 +222,8 @@ class RMP:
             temp = {
                 "teacher": teacher,
                 "crn": crn,
-                "courseCode": courseCode,
+                "subject": subject,
+                "coursenumber": coursenumber,
                 "days": days,
                 "startTime": startTime,
                 "endTime": endTime,
@@ -240,10 +247,11 @@ class RMP:
             courseSplit = course.split('\"')
             teacher = courseSplit[3]
             crn = courseSplit[7]
-            courseCode = courseSplit[11]
-            days = courseSplit[15]
-            startTime = courseSplit[19]
-            endTime = courseSplit[23]
+            subject = courseSplit[11]
+            coursenumber = courseSplit[15]
+            days = courseSplit[19]
+            startTime = courseSplit[23]
+            endTime = courseSplit[27]
             teacherRating = 0.0
 
             if teacher not in knownScores:
@@ -258,7 +266,6 @@ class RMP:
                 print(url)
 
                 # Get safari
-                driver.minimize_window()
                 driver.get(url)
 
                 # Accept Cookies
@@ -291,7 +298,8 @@ class RMP:
             temp = {
                 "teacher": teacher,
                 "crn": crn,
-                "courseCode": courseCode,
+                "subject": subject,
+                "coursenumber": coursenumber,
                 "days": days,
                 "startTime": startTime,
                 "endTime": endTime,
@@ -315,10 +323,11 @@ class RMP:
             courseSplit = course.split('\"')
             teacher = courseSplit[3]
             crn = courseSplit[7]
-            courseCode = courseSplit[11]
-            days = courseSplit[15]
-            startTime = courseSplit[19]
-            endTime = courseSplit[23]
+            subject = courseSplit[11]
+            coursenumber = courseSplit[15]
+            days = courseSplit[19]
+            startTime = courseSplit[23]
+            endTime = courseSplit[27]
             teacherRating = 0.0
 
             if teacher not in knownScores:
@@ -333,7 +342,6 @@ class RMP:
                 print(url)
 
                 # Get safari
-                driver.minimize_window()
                 driver.get(url)
 
                 # Accept Cookies
@@ -366,7 +374,8 @@ class RMP:
             temp = {
                 "teacher": teacher,
                 "crn": crn,
-                "courseCode": courseCode,
+                "subject": subject,
+                "coursenumber": coursenumber,
                 "days": days,
                 "startTime": startTime,
                 "endTime": endTime,
@@ -390,10 +399,11 @@ class RMP:
             courseSplit = course.split('\"')
             teacher = courseSplit[3]
             crn = courseSplit[7]
-            courseCode = courseSplit[11]
-            days = courseSplit[15]
-            startTime = courseSplit[19]
-            endTime = courseSplit[23]
+            subject = courseSplit[11]
+            coursenumber = courseSplit[15]
+            days = courseSplit[19]
+            startTime = courseSplit[23]
+            endTime = courseSplit[27]
             teacherRating = 0.0
 
             if teacher not in knownScores:
@@ -408,7 +418,6 @@ class RMP:
                 print(url)
 
                 # Get safari
-                driver.minimize_window()
                 driver.get(url)
 
                 # Accept Cookies
@@ -441,7 +450,8 @@ class RMP:
             temp = {
                 "teacher": teacher,
                 "crn": crn,
-                "courseCode": courseCode,
+                "subject": subject,
+                "coursenumber": coursenumber,
                 "days": days,
                 "startTime": startTime,
                 "endTime": endTime,
@@ -465,10 +475,11 @@ class RMP:
             courseSplit = course.split('\"')
             teacher = courseSplit[3]
             crn = courseSplit[7]
-            courseCode = courseSplit[11]
-            days = courseSplit[15]
-            startTime = courseSplit[19]
-            endTime = courseSplit[23]
+            subject = courseSplit[11]
+            coursenumber = courseSplit[15]
+            days = courseSplit[19]
+            startTime = courseSplit[23]
+            endTime = courseSplit[27]
             teacherRating = 0.0
 
             if teacher not in knownScores:
@@ -483,7 +494,6 @@ class RMP:
                 print(url)
 
                 # Get safari
-                driver.minimize_window()
                 driver.get(url)
 
                 # Accept Cookies
@@ -516,7 +526,8 @@ class RMP:
             temp = {
                 "teacher": teacher,
                 "crn": crn,
-                "courseCode": courseCode,
+                "subject": subject,
+                "coursenumber": coursenumber,
                 "days": days,
                 "startTime": startTime,
                 "endTime": endTime,
@@ -540,10 +551,11 @@ class RMP:
             courseSplit = course.split('\"')
             teacher = courseSplit[3]
             crn = courseSplit[7]
-            courseCode = courseSplit[11]
-            days = courseSplit[15]
-            startTime = courseSplit[19]
-            endTime = courseSplit[23]
+            subject = courseSplit[11]
+            coursenumber = courseSplit[15]
+            days = courseSplit[19]
+            startTime = courseSplit[23]
+            endTime = courseSplit[27]
             teacherRating = 0.0
 
             if teacher not in knownScores:
@@ -558,7 +570,6 @@ class RMP:
                 print(url)
 
                 # Get safari
-                driver.minimize_window()
                 driver.get(url)
 
                 # Accept Cookies
@@ -591,7 +602,8 @@ class RMP:
             temp = {
                 "teacher": teacher,
                 "crn": crn,
-                "courseCode": courseCode,
+                "subject": subject,
+                "coursenumber": coursenumber,
                 "days": days,
                 "startTime": startTime,
                 "endTime": endTime,
@@ -615,10 +627,11 @@ class RMP:
             courseSplit = course.split('\"')
             teacher = courseSplit[3]
             crn = courseSplit[7]
-            courseCode = courseSplit[11]
-            days = courseSplit[15]
-            startTime = courseSplit[19]
-            endTime = courseSplit[23]
+            subject = courseSplit[11]
+            coursenumber = courseSplit[15]
+            days = courseSplit[19]
+            startTime = courseSplit[23]
+            endTime = courseSplit[27]
             teacherRating = 0.0
 
             if teacher not in knownScores:
@@ -633,7 +646,6 @@ class RMP:
                 print(url)
 
                 # Get safari
-                driver.minimize_window()
                 driver.get(url)
 
                 # Accept Cookies
@@ -666,7 +678,8 @@ class RMP:
             temp = {
                 "teacher": teacher,
                 "crn": crn,
-                "courseCode": courseCode,
+                "subject": subject,
+                "coursenumber": coursenumber,
                 "days": days,
                 "startTime": startTime,
                 "endTime": endTime,
@@ -702,16 +715,16 @@ class RMP:
         GM = open('/Users/aldo/PycharmProjects/scriptGM/Parsed.txt', 'r')
         courses = GM.readlines()
         knownScores = {"EXAMPLE TEACHER": '3.8'}
-        RMP.run1(RMP, courses, knownScores)
-        RMP.run2(RMP, courses, knownScores)
-        RMP.run3(RMP, courses, knownScores)
-        RMP.run4(RMP, courses, knownScores)
-        RMP.run5(RMP, courses, knownScores)
-        RMP.run6(RMP, courses, knownScores)
-        RMP.run7(RMP, courses, knownScores)
-        RMP.run8(RMP, courses, knownScores)
-        RMP.run9(RMP, courses, knownScores)
-        RMP.merge()
+        # RMP.run1(RMP, courses, knownScores)
+        # RMP.run2(RMP, courses, knownScores)
+        # RMP.run3(RMP, courses, knownScores)
+        # RMP.run4(RMP, courses, knownScores)
+        # RMP.run5(RMP, courses, knownScores)
+        # RMP.run6(RMP, courses, knownScores)
+        # RMP.run7(RMP, courses, knownScores)
+        # RMP.run8(RMP, courses, knownScores)
+        # RMP.run9(RMP, courses, knownScores)
+        RMP.merge(RMP)
 
 if __name__ == "__main__":
         RMP.main(RMP)
