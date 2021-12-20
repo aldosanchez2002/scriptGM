@@ -688,10 +688,6 @@ N/A
 would take again
 2.3
 level of difficulty
-Marvelous news, darlings!
-Sponsored by: Disney+
-Cruella, starring Oscar® winner Emma Stone, is now available to all Disney+ subscribers.
-See More
 QUALITY
 4.6
 6 ratings
@@ -1923,16 +1919,6 @@ would take again
 3.2
 level of difficulty
 QUALITY
-1.5
-3 ratings
-Sergio Pena
-Political Science
-The University of Texas at El Paso
-100%
-would take again
-4
-level of difficulty
-QUALITY
 4.6
 8 ratings
 Robert Gutierrez
@@ -2001,6 +1987,16 @@ The University of Texas at El Paso
 N/A
 would take again
 3.7
+level of difficulty
+QUALITY
+4.3
+29 ratings
+Charles Mundy-Castle
+Mathematics
+The University of Texas at El Paso
+0%
+would take again
+2.8
 level of difficulty
 QUALITY
 3.6
@@ -2383,6 +2379,16 @@ would take again
 3
 level of difficulty
 QUALITY
+0.0
+0 ratings
+Schroed Byers
+Biology
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
 4.5
 5 ratings
 Keith Reyes
@@ -2451,16 +2457,6 @@ The University of Texas at El Paso
 67%
 would take again
 3.4
-level of difficulty
-QUALITY
-4.4
-34 ratings
-Charles Ambler
-History
-The University of Texas at El Paso
-100%
-would take again
-2.1
 level of difficulty
 QUALITY
 2.6
@@ -2693,6 +2689,16 @@ would take again
 0
 level of difficulty
 QUALITY
+2.6
+9 ratings
+Charles Elerick
+Linguistics
+The University of Texas at El Paso
+100%
+would take again
+4.1
+level of difficulty
+QUALITY
 4.5
 2 ratings
 Berenice Verdin
@@ -2841,6 +2847,16 @@ The University of Texas at El Paso
 N/A
 would take again
 5
+level of difficulty
+QUALITY
+2.7
+8 ratings
+Eduardo Barrera
+Communication
+The University of Texas at El Paso
+0%
+would take again
+1.9
 level of difficulty
 QUALITY
 4.6
@@ -3073,6 +3089,16 @@ would take again
 4
 level of difficulty
 QUALITY
+5.0
+1 ratings
+Nancy Taylor
+Music
+The University of Texas at El Paso
+N/A
+would take again
+1
+level of difficulty
+QUALITY
 3.0
 5 ratings
 Igor C. Almeida
@@ -3221,16 +3247,6 @@ The University of Texas at El Paso
 100%
 would take again
 1
-level of difficulty
-QUALITY
-3.5
-2 ratings
-Stephanie Meyers
-Music
-The University of Texas at El Paso
-0%
-would take again
-4
 level of difficulty
 QUALITY
 2.0
@@ -3383,6 +3399,16 @@ would take again
 4
 level of difficulty
 QUALITY
+3.1
+5 ratings
+Jesus Matus
+Business
+The University of Texas at El Paso
+100%
+would take again
+2.4
+level of difficulty
+QUALITY
 3.9
 10 ratings
 Andrzej Pownuk
@@ -3531,16 +3557,6 @@ The University of Texas at El Paso
 50%
 would take again
 1.9
-level of difficulty
-QUALITY
-1.5
-1 ratings
-Dodge William
-Mathematics
-The University of Texas at El Paso
-N/A
-would take again
-5
 level of difficulty
 QUALITY
 0.0
@@ -3771,16 +3787,6 @@ The University of Texas at El Paso
 N/A
 would take again
 3.5
-level of difficulty
-QUALITY
-2.0
-1 ratings
-DR. Tucker
-Education
-The University of Texas at El Paso
-N/A
-would take again
-4
 level of difficulty
 QUALITY
 5.0
@@ -4313,16 +4319,6 @@ would take again
 4
 level of difficulty
 QUALITY
-3.0
-1 ratings
-Shawn Mena
-Communication
-The University of Texas at El Paso
-N/A
-would take again
-4
-level of difficulty
-QUALITY
 3.5
 2 ratings
 Deborah Constantin
@@ -4463,6 +4459,26 @@ would take again
 1.3
 level of difficulty
 QUALITY
+4.3
+2 ratings
+Gregory S. Luffey
+Music
+The University of Texas at El Paso
+N/A
+would take again
+3
+level of difficulty
+QUALITY
+3.9
+4 ratings
+Julia Kokina
+Accounting
+The University of Texas at El Paso
+N/A
+would take again
+3
+level of difficulty
+QUALITY
 0.0
 0 ratings
 Michele Levy
@@ -4601,6 +4617,26 @@ The University of Texas at El Paso
 N/A
 would take again
 4.3
+level of difficulty
+QUALITY
+4.8
+14 ratings
+Richard Foust
+History
+The University of Texas at El Paso
+N/A
+would take again
+4.4
+level of difficulty
+QUALITY
+4.8
+3 ratings
+David Herring
+Psychology
+The University of Texas at El Paso
+N/A
+would take again
+1.3
 level of difficulty
 QUALITY
 4.8
@@ -4823,26 +4859,6 @@ would take again
 2.3
 level of difficulty
 QUALITY
-3.3
-5 ratings
-Diana Martinez-Gomez
-Biology
-The University of Texas at El Paso
-N/A
-would take again
-1.8
-level of difficulty
-QUALITY
-4.5
-1 ratings
-Denise Pichardo
-English
-The University of Texas at El Paso
-N/A
-would take again
-2
-level of difficulty
-QUALITY
 4.1
 16 ratings
 Daniel Jones
@@ -4901,6 +4917,26 @@ The University of Texas at El Paso
 100%
 would take again
 2
+level of difficulty
+QUALITY
+3.7
+9 ratings
+Grace Mubako
+Accounting
+The University of Texas at El Paso
+60%
+would take again
+3.4
+level of difficulty
+QUALITY
+2.8
+3 ratings
+Matthew Carlson
+Psychology
+The University of Texas at El Paso
+N/A
+would take again
+5
 level of difficulty
 QUALITY
 4.5
@@ -5041,26 +5077,6 @@ The University of Texas at El Paso
 N/A
 would take again
 2
-level of difficulty
-QUALITY
-1.0
-1 ratings
-Alicia Wheaton
-Education
-The University of Texas at El Paso
-N/A
-would take again
-3
-level of difficulty
-QUALITY
-2.7
-12 ratings
-Hugues Ouellet
-Microbiology
-The University of Texas at El Paso
-67%
-would take again
-4.5
 level of difficulty
 QUALITY
 2.0
@@ -5423,26 +5439,6 @@ would take again
 3.1
 level of difficulty
 QUALITY
-0.0
-0 ratings
-Jorge Aguilar Cruz
-Astronomy
-The University of Texas at El Paso
-N/A
-would take again
-0
-level of difficulty
-QUALITY
-4.1
-8 ratings
-Giorgio Gotti
-Accounting
-The University of Texas at El Paso
-N/A
-would take again
-3.6
-level of difficulty
-QUALITY
 4.0
 11 ratings
 Roland Gau
@@ -5501,6 +5497,26 @@ The University of Texas at El Paso
 N/A
 would take again
 2
+level of difficulty
+QUALITY
+2.5
+2 ratings
+Ernesto Castaneda-Tinoco
+Sociology
+The University of Texas at El Paso
+N/A
+would take again
+4.5
+level of difficulty
+QUALITY
+5.0
+1 ratings
+Andrea Vasquez
+Dance
+The University of Texas at El Paso
+N/A
+would take again
+1
 level of difficulty
 QUALITY
 3.9
@@ -5721,6 +5737,26 @@ The University of Texas at El Paso
 67%
 would take again
 3.2
+level of difficulty
+QUALITY
+4.8
+5 ratings
+John Sneed
+Mathematics
+The University of Texas at El Paso
+N/A
+would take again
+2.4
+level of difficulty
+QUALITY
+4.7
+3 ratings
+Pat Piotrowski
+Communication
+The University of Texas at El Paso
+100%
+would take again
+2
 level of difficulty
 QUALITY
 4.0
@@ -6263,6 +6299,26 @@ would take again
 4
 level of difficulty
 QUALITY
+2.5
+6 ratings
+Panagis Moschopoulos
+Statistics
+The University of Texas at El Paso
+25%
+would take again
+3.3
+level of difficulty
+QUALITY
+4.0
+1 ratings
+Sandra Deutsch
+History
+The University of Texas at El Paso
+N/A
+would take again
+4
+level of difficulty
+QUALITY
 4.5
 1 ratings
 Trinadad Morales
@@ -6321,26 +6377,6 @@ The University of Texas at El Paso
 75%
 would take again
 2.5
-level of difficulty
-QUALITY
-4.3
-4 ratings
-Manuel Hernandez
-Mechanical Engineering
-The University of Texas at El Paso
-N/A
-would take again
-1.8
-level of difficulty
-QUALITY
-5.0
-1 ratings
-Eric Boyer
-Public Administration
-The University of Texas at El Paso
-100%
-would take again
-3
 level of difficulty
 QUALITY
 2.5
@@ -6643,26 +6679,6 @@ would take again
 0
 level of difficulty
 QUALITY
-5.0
-1 ratings
-Thomas Lott
-Criminal Justice
-The University of Texas at El Paso
-100%
-would take again
-2
-level of difficulty
-QUALITY
-4.5
-4 ratings
-Isela Ocegueda
-Chicano Studies
-The University of Texas at El Paso
-N/A
-would take again
-2.8
-level of difficulty
-QUALITY
 4.3
 10 ratings
 Leanne Alarid
@@ -6803,6 +6819,26 @@ would take again
 2.5
 level of difficulty
 QUALITY
+2.3
+5 ratings
+Diego Canales
+Mathematics
+The University of Texas at El Paso
+N/A
+would take again
+3.6
+level of difficulty
+QUALITY
+4.0
+1 ratings
+John Kubi
+Statistics
+The University of Texas at El Paso
+N/A
+would take again
+3
+level of difficulty
+QUALITY
 4.4
 5 ratings
 Schuyler Pike
@@ -6863,26 +6899,6 @@ would take again
 3
 level of difficulty
 QUALITY
-5.0
-1 ratings
-Joseph Munoz
-University Studies
-The University of Texas at El Paso
-N/A
-would take again
-1
-level of difficulty
-QUALITY
-4.5
-2 ratings
-Ming-Ying Leung
-Statistics
-The University of Texas at El Paso
-N/A
-would take again
-2.5
-level of difficulty
-QUALITY
 2.5
 4 ratings
 Adelina Holguin
@@ -6941,6 +6957,26 @@ The University of Texas at El Paso
 67%
 would take again
 2.6
+level of difficulty
+QUALITY
+3.2
+4 ratings
+Aurolyn Luykx
+Anthropology
+The University of Texas at El Paso
+50%
+would take again
+3
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Andrew Fleck
+Religious Studies
+The University of Texas at El Paso
+N/A
+would take again
+0
 level of difficulty
 QUALITY
 3.7
@@ -7081,6 +7117,26 @@ The University of Texas at El Paso
 N/A
 would take again
 0
+level of difficulty
+QUALITY
+4.5
+15 ratings
+Kathleen Key
+University Studies
+The University of Texas at El Paso
+84%
+would take again
+1.1
+level of difficulty
+QUALITY
+4.3
+2 ratings
+John Kubi
+Mathematics
+The University of Texas at El Paso
+N/A
+would take again
+3
 level of difficulty
 QUALITY
 3.5
@@ -7543,6 +7599,26 @@ would take again
 1
 level of difficulty
 QUALITY
+1.0
+1 ratings
+Francisco Zapata-Gonzalez
+Computer Science
+The University of Texas at El Paso
+N/A
+would take again
+5
+level of difficulty
+QUALITY
+4.0
+1 ratings
+Yok-Fong Paat
+Social Work
+The University of Texas at El Paso
+N/A
+would take again
+2
+level of difficulty
+QUALITY
 4.5
 36 ratings
 Shaolin Mao
@@ -7682,30 +7758,6 @@ The University of Texas at El Paso
 would take again
 1.6
 level of difficulty
-Disney+ | Hulu | ESPN+
-Sponsored by: Disney+
-The Disney Bundle is a game changer! Three streaming services for one low price.
-See More
-QUALITY
-5.0
-1 ratings
-David Medina
-Writing
-The University of Texas at El Paso
-N/A
-would take again
-5
-level of difficulty
-QUALITY
-4.2
-5 ratings
-Tetyana Zhyvotovska
-Writing
-The University of Texas at El Paso
-75%
-would take again
-2.6
-level of difficulty
 QUALITY
 3.2
 5 ratings
@@ -7765,6 +7817,26 @@ The University of Texas at El Paso
 100%
 would take again
 3.5
+level of difficulty
+QUALITY
+3.3
+4 ratings
+Eduardo Peru
+Biology
+The University of Texas at El Paso
+50%
+would take again
+3.8
+level of difficulty
+QUALITY
+4.8
+5 ratings
+Randika Eramudugoda
+Management
+The University of Texas at El Paso
+80%
+would take again
+3.6
 level of difficulty
 QUALITY
 4.3
@@ -7827,26 +7899,6 @@ would take again
 3.5
 level of difficulty
 QUALITY
-4.8
-5 ratings
-Josephine Francis
-Kinesiology
-The University of Texas at El Paso
-100%
-would take again
-2
-level of difficulty
-QUALITY
-4.8
-10 ratings
-MD Rashedul Sarker
-Mechanical Engineering
-The University of Texas at El Paso
-100%
-would take again
-1.3
-level of difficulty
-QUALITY
 0.0
 0 ratings
 Paul Ashby
@@ -7905,6 +7957,26 @@ The University of Texas at El Paso
 100%
 would take again
 2
+level of difficulty
+QUALITY
+5.0
+1 ratings
+Justin Lauro
+Psychology
+The University of Texas at El Paso
+100%
+would take again
+3
+level of difficulty
+QUALITY
+4.0
+3 ratings
+Irasema Barragan
+Physical Education
+The University of Texas at El Paso
+67%
+would take again
+2.7
 level of difficulty
 QUALITY
 4.3
@@ -8106,10 +8178,6 @@ The University of Texas at El Paso
 would take again
 2.6
 level of difficulty
-Unlimited data, powered by Verizon, 5G included.
-Sponsored by: Visible
-Family plan savings without the family drama. Join forces with anyone else and get unlimited data for as low as $25/mo. How merry, right? Terms apply.
-See More
 QUALITY
 5.0
 2 ratings
@@ -8129,6 +8197,26 @@ The University of Texas at El Paso
 50%
 would take again
 3
+level of difficulty
+QUALITY
+5.0
+2 ratings
+Michael Brooks
+Business
+The University of Texas at El Paso
+100%
+would take again
+2.5
+level of difficulty
+QUALITY
+3.8
+6 ratings
+David Folsom
+Accounting
+The University of Texas at El Paso
+67%
+would take again
+5
 level of difficulty
 QUALITY
 1.7
@@ -8269,26 +8357,6 @@ The University of Texas at El Paso
 N/A
 would take again
 0
-level of difficulty
-QUALITY
-4.5
-2 ratings
-Tina Carrick
-Geology
-The University of Texas at El Paso
-100%
-would take again
-1
-level of difficulty
-QUALITY
-5.0
-3 ratings
-Renee Malooly
-Writing
-The University of Texas at El Paso
-100%
-would take again
-1.7
 level of difficulty
 QUALITY
 3.5
@@ -8500,10 +8568,6 @@ The University of Texas at El Paso
 would take again
 2
 level of difficulty
-America's most reliable network.
-Sponsored by: Verizon
-Most reliable based on RootMetrics® US National RootScore® Report 1H 2021. Tested on 3 nat’l mobile networks across all available network types combined. Results may vary. Not an endorsement.
-See More
 QUALITY
 5.0
 4 ratings
@@ -8653,26 +8717,6 @@ The University of Texas at El Paso
 100%
 would take again
 2.3
-level of difficulty
-QUALITY
-3.0
-3 ratings
-Allison Cantor
-Anthropology
-The University of Texas at El Paso
-34%
-would take again
-3.7
-level of difficulty
-QUALITY
-1.8
-5 ratings
-June Kan-Mitchell
-Biology
-The University of Texas at El Paso
-20%
-would take again
-3.6
 level of difficulty
 QUALITY
 3.0
@@ -9044,10 +9088,6 @@ The University of Texas at El Paso
 would take again
 3.7
 level of difficulty
-America's most reliable network.
-Sponsored by: Verizon
-Most reliable based on RootMetrics® US National RootScore® Report 1H 2021. Tested on 3 nat’l mobile networks across all available network types combined. Results may vary. Not an endorsement.
-See More
 QUALITY
 3.5
 2 ratings
@@ -9299,6 +9339,26 @@ would take again
 2.3
 level of difficulty
 QUALITY
+4.5
+2 ratings
+Kathleen Gannon
+Communication
+The University of Texas at El Paso
+100%
+would take again
+3.5
+level of difficulty
+QUALITY
+3.0
+2 ratings
+Elva Rexa-Lopez
+Bilingual Education
+The University of Texas at El Paso
+100%
+would take again
+2.5
+level of difficulty
+QUALITY
 4.7
 3 ratings
 Supriyo Ray
@@ -9519,26 +9579,6 @@ would take again
 4
 level of difficulty
 QUALITY
-0.0
-0 ratings
-Connie Summers
-Speech amp Hearing Sciences
-The University of Texas at El Paso
-N/A
-would take again
-0
-level of difficulty
-QUALITY
-4.5
-4 ratings
-Sara Potter
-Spanish
-The University of Texas at El Paso
-100%
-would take again
-3
-level of difficulty
-QUALITY
 1.0
 3 ratings
 Ivonne Santiago
@@ -9588,10 +9628,6 @@ The University of Texas at El Paso
 would take again
 3
 level of difficulty
-Marvelous news, darlings!
-Sponsored by: Disney+
-Cruella, starring Oscar® winner Emma Stone, is now available to all Disney+ subscribers.
-See More
 QUALITY
 0.0
 0 ratings
@@ -9601,6 +9637,26 @@ The University of Texas at El Paso
 N/A
 would take again
 0
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Rajendar Zope
+Physics
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+2.4
+8 ratings
+Chunqiang Li
+Physics
+The University of Texas at El Paso
+50%
+would take again
+3.6
 level of difficulty
 QUALITY
 0.0
@@ -9743,26 +9799,6 @@ would take again
 3
 level of difficulty
 QUALITY
-4.8
-6 ratings
-Anita Quintana
-Biology
-The University of Texas at El Paso
-100%
-would take again
-3.3
-level of difficulty
-QUALITY
-3.7
-11 ratings
-Stephen Boakye
-English
-The University of Texas at El Paso
-73%
-would take again
-2.5
-level of difficulty
-QUALITY
 4.5
 2 ratings
 Luis Mendez
@@ -9892,10 +9928,6 @@ The University of Texas at El Paso
 would take again
 3
 level of difficulty
-America's most reliable network.
-Sponsored by: Verizon
-Most reliable based on RootMetrics® US National RootScore® Report 1H 2021. Tested on 3 nat’l mobile networks across all available network types combined. Results may vary. Not an endorsement.
-See More
 QUALITY
 5.0
 1 ratings
@@ -9905,6 +9937,26 @@ The University of Texas at El Paso
 100%
 would take again
 1
+level of difficulty
+QUALITY
+2.3
+3 ratings
+Rachel Thompson
+Accounting
+The University of Texas at El Paso
+34%
+would take again
+4.3
+level of difficulty
+QUALITY
+5.0
+6 ratings
+Hossein Mallahzadeh
+Mechanical Engineering
+The University of Texas at El Paso
+100%
+would take again
+2.2
 level of difficulty
 QUALITY
 4.8
@@ -10406,10 +10458,6 @@ The University of Texas at El Paso
 would take again
 4.5
 level of difficulty
-Looking for Hangers? - Clothes Hangers
-Sponsored by: www.TheHangerDepot.com
-Shop The Hanger Depot for quality clothing hangers at great prices!
-See More
 QUALITY
 4.0
 1 ratings
@@ -10429,6 +10477,26 @@ The University of Texas at El Paso
 34%
 would take again
 4
+level of difficulty
+QUALITY
+4.0
+1 ratings
+Fabricio Saucedo
+Kinesiology
+The University of Texas at El Paso
+100%
+would take again
+3
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Alison Zepeda
+Writing
+The University of Texas at El Paso
+N/A
+would take again
+0
 level of difficulty
 QUALITY
 5.0
@@ -10493,26 +10561,6 @@ level of difficulty
 QUALITY
 1.0
 2 ratings
-Cesar Rivera
-Religious Studies
-The University of Texas at El Paso
-0%
-would take again
-3
-level of difficulty
-QUALITY
-5.0
-1 ratings
-Fabiola Meza
-English
-The University of Texas at El Paso
-100%
-would take again
-2
-level of difficulty
-QUALITY
-1.0
-2 ratings
 Stephen Kahoe
 Social Work
 The University of Texas at El Paso
@@ -10569,6 +10617,26 @@ The University of Texas at El Paso
 100%
 would take again
 2.3
+level of difficulty
+QUALITY
+5.0
+5 ratings
+Joaquin Tadeo
+Marketing
+The University of Texas at El Paso
+100%
+would take again
+3.2
+level of difficulty
+QUALITY
+2.0
+1 ratings
+Roberto Perezdiaz
+Translation
+The University of Texas at El Paso
+0%
+would take again
+3
 level of difficulty
 QUALITY
 5.0
@@ -10709,26 +10777,6 @@ The University of Texas at El Paso
 0%
 would take again
 5
-level of difficulty
-QUALITY
-5.0
-1 ratings
-david griffin
-Art
-The University of Texas at El Paso
-100%
-would take again
-4
-level of difficulty
-QUALITY
-0.0
-0 ratings
-Larrisa Krenzer
-Communication
-The University of Texas at El Paso
-N/A
-would take again
-0
 level of difficulty
 QUALITY
 0.0
@@ -10953,6 +11001,26 @@ level of difficulty
 QUALITY
 0.0
 0 ratings
+Adeeba Raheem
+Civil Engineering
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+0.0
+0 ratings
+maria lilian
+Health Science
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+0.0
+0 ratings
 Joel Zapata
 History
 The University of Texas at El Paso
@@ -11009,26 +11077,6 @@ The University of Texas at El Paso
 N/A
 would take again
 0
-level of difficulty
-QUALITY
-0.0
-0 ratings
-Richard Gutierrez
-Biology
-The University of Texas at El Paso
-N/A
-would take again
-0
-level of difficulty
-QUALITY
-1.5
-4 ratings
-Neri Torres
-Dance
-The University of Texas at El Paso
-0%
-would take again
-4.5
 level of difficulty
 QUALITY
 5.0
@@ -11089,6 +11137,26 @@ The University of Texas at El Paso
 50%
 would take again
 3.5
+level of difficulty
+QUALITY
+5.0
+1 ratings
+Kisuk Min
+Kinesiology
+The University of Texas at El Paso
+100%
+would take again
+3
+level of difficulty
+QUALITY
+4.0
+1 ratings
+Juan Aguilera
+Health Science
+The University of Texas at El Paso
+100%
+would take again
+4
 level of difficulty
 QUALITY
 4.2
@@ -11171,6 +11239,16 @@ would take again
 0
 level of difficulty
 QUALITY
+3.0
+1 ratings
+Francis Biney
+Mathematics
+The University of Texas at El Paso
+100%
+would take again
+2
+level of difficulty
+QUALITY
 3.5
 2 ratings
 Silvia Zacarias
@@ -11217,36 +11295,6 @@ Elvin Porflit
 Music
 The University of Texas at El Paso
 0%
-would take again
-2
-level of difficulty
-QUALITY
-0.0
-0 ratings
-Leslie Robbins
-Nursing
-The University of Texas at El Paso
-N/A
-would take again
-0
-level of difficulty
-QUALITY
-0.0
-0 ratings
-Xuijun Li
-Chemistry
-The University of Texas at El Paso
-N/A
-would take again
-0
-level of difficulty
-QUALITY
-4.0
-2 ratings
-Jaqueline Lechuga
-Psychology
-The University of Texas at El Paso
-50%
 would take again
 2
 level of difficulty
@@ -11370,10 +11418,6 @@ N/A
 would take again
 0
 level of difficulty
-Disney+ | Hulu | ESPN+
-Sponsored by: Disney+
-Get the best deal on the best movies, series, and sports with The Disney Bundle.
-See More
 QUALITY
 0.0
 0 ratings
@@ -11509,6 +11553,36 @@ QUALITY
 0 ratings
 Christopher Bradley
 Materials Engineering
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Corinne Peschka
+Reading
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Toni Tullius
+Mathematics Education
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Karina Canaba
+Education Administration
 The University of Texas at El Paso
 N/A
 would take again
@@ -11805,6 +11879,16 @@ would take again
 2.4
 level of difficulty
 QUALITY
+2.9
+12 ratings
+Marissa Florez
+English
+The University of Texas at El Paso
+42%
+would take again
+3.7
+level of difficulty
+QUALITY
 5.0
 2 ratings
 Williams Lewis
@@ -12095,14 +12179,14 @@ would take again
 1.8
 level of difficulty
 QUALITY
-3.4
-12 ratings
+3.5
+13 ratings
 Amy Buchanan
 Health Science
 The University of Texas at El Paso
 64%
 would take again
-3
+2.9
 level of difficulty
 QUALITY
 2.4
@@ -12397,86 +12481,6 @@ level of difficulty
 QUALITY
 0.0
 0 ratings
-Stephanie sherman
-Dance
-The University of Texas at El Paso
-N/A
-would take again
-0
-level of difficulty
-QUALITY
-0.0
-0 ratings
-kristene garza
-Biology
-The University of Texas at El Paso
-N/A
-would take again
-0
-level of difficulty
-QUALITY
-5.0
-2 ratings
-Mark Engle
-Geology
-The University of Texas at El Paso
-100%
-would take again
-2.5
-level of difficulty
-QUALITY
-5.0
-1 ratings
-Annatoma Arif
-Electrical Engineering
-The University of Texas at El Paso
-100%
-would take again
-2
-level of difficulty
-QUALITY
-3.9
-10 ratings
-Stella Quinones
-Engineering
-The University of Texas at El Paso
-100%
-would take again
-2.6
-level of difficulty
-QUALITY
-5.0
-2 ratings
-Maria De Los Angeles
-Communication
-The University of Texas at El Paso
-100%
-would take again
-1
-level of difficulty
-QUALITY
-4.1
-12 ratings
-Steve Lama
-Communication
-The University of Texas at El Paso
-80%
-would take again
-2.7
-level of difficulty
-QUALITY
-4.7
-3 ratings
-Amy Wagler
-Statistics
-The University of Texas at El Paso
-100%
-would take again
-2.3
-level of difficulty
-QUALITY
-0.0
-0 ratings
 Jeffrey Weidner
 Civil Engineering
 The University of Texas at El Paso
@@ -12635,10 +12639,70 @@ would take again
 2.7
 level of difficulty
 QUALITY
+4.3
+29 ratings
+Aurelia Murga
+Sociology
+The University of Texas at El Paso
+84%
+would take again
+2.4
+level of difficulty
+QUALITY
+3.0
+2 ratings
+Rodrigo Romero
+Electrical Engineering
+The University of Texas at El Paso
+0%
+would take again
+5
+level of difficulty
+QUALITY
 0.0
 0 ratings
-Tunna Baruah
-Physics
+Jose Maria Herrera
+Education Administration
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Christina Villarreal
+History
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+3.8
+72 ratings
+Ramana Chintalapalle
+Engineering
+The University of Texas at El Paso
+88%
+would take again
+2.3
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Alla Mc Intyre
+Art
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Alejandra Carrillo
+Art & Design
 The University of Texas at El Paso
 N/A
 would take again
@@ -12646,53 +12710,93 @@ would take again
 level of difficulty
 QUALITY
 4.8
-4 ratings
-Rocio Bishop
+10 ratings
+Annette Franco
 Mathematics
 The University of Texas at El Paso
 100%
 would take again
+2.6
+level of difficulty
+QUALITY
+4.5
+14 ratings
+Jonathan Nehls
+English
+The University of Texas at El Paso
+91%
+would take again
 2
-level of difficulty
-QUALITY
-4.0
-6 ratings
-Ramon Villa
-Communication
-The University of Texas at El Paso
-67%
-would take again
-3.2
-level of difficulty
-QUALITY
-2.4
-28 ratings
-Diana Martinez
-Humanities
-The University of Texas at El Paso
-30%
-would take again
-3.6
 level of difficulty
 QUALITY
 0.0
 0 ratings
-Hector Erives
-Engineering
+Carla Miranda
+Physics
 The University of Texas at El Paso
 N/A
 would take again
 0
 level of difficulty
 QUALITY
-4.9
-30 ratings
-Jack Chessa
-Mechanical Engineering
+4.0
+24 ratings
+Edward Castañeda
+Psychology
 The University of Texas at El Paso
-100%
+75%
 would take again
-1.3
+3.8
+level of difficulty
+QUALITY
+1.2
+4 ratings
+Cesar Rosatto
+Education
+The University of Texas at El Paso
+0%
+would take again
+4
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Diane Golding
+Education
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Annette Veilleux
+Geology
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+1.0
+3 ratings
+Cesar Tirado
+Civil Engineering
+The University of Texas at El Paso
+0%
+would take again
+5
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Valbona Sulcaj
+Accounting
+The University of Texas at El Paso
+N/A
+would take again
+0
 level of difficulty
 QUALITY
 3.1
@@ -12715,84 +12819,84 @@ would take again
 3.4
 level of difficulty
 QUALITY
-3.3
-28 ratings
-Olac Fuentes
-Computer Science
+2.3
+4 ratings
+Ruben Paquian
+Writing
 The University of Texas at El Paso
-65%
-would take again
-3.7
-level of difficulty
-QUALITY
-2.9
-22 ratings
-Jose Maria Herrera
-Teaching & Learning
-The University of Texas at El Paso
-42%
+25%
 would take again
 4
 level of difficulty
 QUALITY
-3.8
-9 ratings
-Louis Arias
-Criminal Justice
+5.0
+2 ratings
+Brian Jarvis
+Music
 The University of Texas at El Paso
-78%
+100%
 would take again
-2.8
+2.5
 level of difficulty
 QUALITY
-4.7
-23 ratings
-Joanne Kropp
-History
+5.0
+1 ratings
+Rocio Alvarenga
+Rehabilitation Sciences
 The University of Texas at El Paso
-89%
+100%
 would take again
-2.7
+1
+level of difficulty
+QUALITY
+5.0
+1 ratings
+Isabel Latz
+Rehabilitation Sciences
+The University of Texas at El Paso
+100%
+would take again
+1
+level of difficulty
+QUALITY
+5.0
+13 ratings
+Gregory Schober
+Political Science
+The University of Texas at El Paso
+100%
+would take again
+2.4
+level of difficulty
+QUALITY
+3.2
+5 ratings
+Christopher Kiekintveld
+Computer Science
+The University of Texas at El Paso
+50%
+would take again
+2.6
+level of difficulty
+QUALITY
+4.6
+8 ratings
+Joseph Ortiz
+English
+The University of Texas at El Paso
+100%
+would take again
+3.5
 level of difficulty
 QUALITY
 0.0
 0 ratings
-Ernesto Virgilio Gonzalez
-Computer Science
+Marianna Olague
+Art
 The University of Texas at El Paso
 N/A
 would take again
 0
-level of difficulty
-QUALITY
-4.0
-10 ratings
-Carolyn Tsutsui
-Theater
-The University of Texas at El Paso
-72%
-would take again
-2.9
-level of difficulty
-QUALITY
-3.5
-8 ratings
-Simon Jules
-Philosophy
-The University of Texas at El Paso
-67%
-would take again
-3.5
-level of difficulty
-QUALITY
-3.7
-3 ratings
-Gene Morales
-History
-The University of Texas at El Paso
-67%
-would take again
-1.3
 level of difficulty
 QUALITY
 2.3
@@ -12815,24 +12919,14 @@ would take again
 4.2
 level of difficulty
 QUALITY
-1.0
-3 ratings
-Cesar Tirado
-Civil Engineering
+4.3
+38 ratings
+Joshua Fan
+History
 The University of Texas at El Paso
-0%
+82%
 would take again
-5
-level of difficulty
-QUALITY
-0.0
-0 ratings
-Valbona Sulcaj
-Accounting
-The University of Texas at El Paso
-N/A
-would take again
-0
+2.8
 level of difficulty
 QUALITY
 0.0
@@ -12965,126 +13059,6 @@ would take again
 4
 level of difficulty
 QUALITY
-1.0
-1 ratings
-Jaime Desantiago
-Philosophy
-The University of Texas at El Paso
-0%
-would take again
-3
-level of difficulty
-QUALITY
-2.9
-3 ratings
-Patricia Herbias
-Nursing
-The University of Texas at El Paso
-100%
-would take again
-4
-level of difficulty
-QUALITY
-2.3
-5 ratings
-Rosa Corral
-Linguistics
-The University of Texas at El Paso
-25%
-would take again
-4
-level of difficulty
-QUALITY
-2.3
-4 ratings
-Oscar Mondragon
-Computer Science
-The University of Texas at El Paso
-25%
-would take again
-4
-level of difficulty
-QUALITY
-5.0
-3 ratings
-Sarah Robertson
-Accounting
-The University of Texas at El Paso
-100%
-would take again
-4
-level of difficulty
-QUALITY
-3.7
-8 ratings
-Jason Boyle
-Kinesiology
-The University of Texas at El Paso
-67%
-would take again
-2.2
-level of difficulty
-QUALITY
-4.2
-30 ratings
-Eduardo Urquidi
-Mathematics
-The University of Texas at El Paso
-87%
-would take again
-2.6
-level of difficulty
-QUALITY
-3.9
-21 ratings
-Irma Montelongo
-University Studies
-The University of Texas at El Paso
-67%
-would take again
-2.9
-level of difficulty
-QUALITY
-4.5
-2 ratings
-Adam Demaray
-Portuguese
-The University of Texas at El Paso
-100%
-would take again
-2.5
-level of difficulty
-QUALITY
-5.0
-7 ratings
-Diane Golding
-English
-The University of Texas at El Paso
-100%
-would take again
-2
-level of difficulty
-QUALITY
-3.0
-17 ratings
-Gregory Allison
-Mathematics
-The University of Texas at El Paso
-60%
-would take again
-3.2
-level of difficulty
-QUALITY
-3.1
-27 ratings
-Sukla Roychowdhury
-Biology
-The University of Texas at El Paso
-50%
-would take again
-2.2
-level of difficulty
-QUALITY
 3.3
 16 ratings
 Enrique Ramirez-Homs
@@ -13165,6 +13139,36 @@ would take again
 3.6
 level of difficulty
 QUALITY
+5.0
+7 ratings
+Diane Golding
+English
+The University of Texas at El Paso
+100%
+would take again
+2
+level of difficulty
+QUALITY
+3.0
+17 ratings
+Gregory Allison
+Mathematics
+The University of Texas at El Paso
+60%
+would take again
+3.2
+level of difficulty
+QUALITY
+3.1
+27 ratings
+Sukla Roychowdhury
+Biology
+The University of Texas at El Paso
+50%
+would take again
+2.2
+level of difficulty
+QUALITY
 3.9
 10 ratings
 Sarah Jimenez
@@ -13213,116 +13217,6 @@ The University of Texas at El Paso
 72%
 would take again
 2.6
-level of difficulty
-QUALITY
-2.3
-4 ratings
-Srinivasa Singamaneni
-Physics
-The University of Texas at El Paso
-50%
-would take again
-3.2
-level of difficulty
-QUALITY
-2.5
-2 ratings
-Waymond Rodgers
-Accounting
-The University of Texas at El Paso
-0%
-would take again
-3.5
-level of difficulty
-QUALITY
-3.1
-11 ratings
-Denisse Olivas
-Marketing
-The University of Texas at El Paso
-25%
-would take again
-3.3
-level of difficulty
-QUALITY
-5.0
-1 ratings
-Stacey Duncan
-Education
-The University of Texas at El Paso
-100%
-would take again
-1
-level of difficulty
-QUALITY
-4.0
-2 ratings
-Rosa Alcala
-Creative Writing
-The University of Texas at El Paso
-50%
-would take again
-4
-level of difficulty
-QUALITY
-4.0
-1 ratings
-Andrea Cote Botero
-Creative Writing
-The University of Texas at El Paso
-100%
-would take again
-3
-level of difficulty
-QUALITY
-2.0
-1 ratings
-Manuel Ramirez
-Chicano Studies
-The University of Texas at El Paso
-0%
-would take again
-4
-level of difficulty
-QUALITY
-4.7
-10 ratings
-Judith Navarro
-English As A Second Language
-The University of Texas at El Paso
-100%
-would take again
-1.9
-level of difficulty
-QUALITY
-5.0
-1 ratings
-Rhonda Dore
-Communication
-The University of Texas at El Paso
-100%
-would take again
-2
-level of difficulty
-QUALITY
-1.0
-1 ratings
-Sabrina Mossman
-Linguistics
-The University of Texas at El Paso
-0%
-would take again
-5
-level of difficulty
-QUALITY
-4.0
-23 ratings
-Hilda Ontiveros
-Chicano Studies
-The University of Texas at El Paso
-88%
-would take again
-2.2
 level of difficulty
 QUALITY
 4.0
@@ -13393,6 +13287,86 @@ The University of Texas at El Paso
 84%
 would take again
 2.6
+level of difficulty
+QUALITY
+4.0
+1 ratings
+Ivan Gris
+Computer Information Systems
+The University of Texas at El Paso
+100%
+would take again
+4
+level of difficulty
+QUALITY
+4.9
+58 ratings
+Jose Villalobos
+Political Science
+The University of Texas at El Paso
+97%
+would take again
+1.5
+level of difficulty
+QUALITY
+2.5
+4 ratings
+Matthew Griffith
+Management
+The University of Texas at El Paso
+25%
+would take again
+4.2
+level of difficulty
+QUALITY
+5.0
+1 ratings
+Yoonsun Jeong
+Marketing
+The University of Texas at El Paso
+100%
+would take again
+2
+level of difficulty
+QUALITY
+3.5
+9 ratings
+Charles Boehmer
+Political Science
+The University of Texas at El Paso
+100%
+would take again
+3.4
+level of difficulty
+QUALITY
+4.2
+25 ratings
+Jawad Mahmoud
+Chemistry
+The University of Texas at El Paso
+78%
+would take again
+2.3
+level of difficulty
+QUALITY
+3.3
+3 ratings
+Mark Moffett
+Humanities
+The University of Texas at El Paso
+67%
+would take again
+3
+level of difficulty
+QUALITY
+3.7
+15 ratings
+Brenda Torres
+Chemistry
+The University of Texas at El Paso
+74%
+would take again
+2.9
 level of difficulty
 QUALITY
 5.0
@@ -13845,72 +13819,3122 @@ would take again
 3.5
 level of difficulty
 QUALITY
+2.3
+21 ratings
+Collins Bill
+Biology
+The University of Texas at El Paso
+24%
+would take again
+4.4
+level of difficulty
+QUALITY
 4.5
-7 ratings
-Luis Arias
+34 ratings
+Lindsey Macchiarella
+Music
+The University of Texas at El Paso
+98%
+would take again
+2.2
+level of difficulty
+QUALITY
+3.7
+18 ratings
+Timothy Turnipseed
+Military Science
+The University of Texas at El Paso
+38%
+would take again
+2.5
+level of difficulty
+QUALITY
+4.2
+5 ratings
+Theodore Curry
 Criminal Justice
 The University of Texas at El Paso
-86%
+67%
 would take again
-2.1
+3.2
+level of difficulty
+QUALITY
+5.0
+30 ratings
+Emre Umucu
+Rehabilitation Sciences
+The University of Texas at El Paso
+100%
+would take again
+3.8
+level of difficulty
+QUALITY
+4.1
+16 ratings
+Maryse Jayasuriya
+English
+The University of Texas at El Paso
+100%
+would take again
+3.4
+level of difficulty
+QUALITY
+3.7
+3 ratings
+Pratyusha Basu
+Anthropology
+The University of Texas at El Paso
+67%
+would take again
+3.3
+level of difficulty
+QUALITY
+4.2
+17 ratings
+Samuel Brunk
+History
+The University of Texas at El Paso
+67%
+would take again
+3.1
+level of difficulty
+QUALITY
+4.0
+1 ratings
+Alfred Moore
+International Studies
+The University of Texas at El Paso
+100%
+would take again
+2
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Mercedes Guzman
+Secondary Education
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+4.3
+22 ratings
+Dino Villagran
+Chemistry
+The University of Texas at El Paso
+89%
+would take again
+3.9
+level of difficulty
+QUALITY
+5.0
+8 ratings
+Marsha Cardenas
+Mathematics
+The University of Texas at El Paso
+100%
+would take again
+1.7
+level of difficulty
+QUALITY
+4.2
+32 ratings
+Peter Golding
+Engineering
+The University of Texas at El Paso
+100%
+would take again
+1.9
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Sarah Spellings
+Nursing
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+3.2
+32 ratings
+Judith Fourzan
+English
+The University of Texas at El Paso
+65%
+would take again
+3.4
+level of difficulty
+QUALITY
+4.6
+16 ratings
+Lawrence Cohn
+Physics
+The University of Texas at El Paso
+100%
+would take again
+2.3
+level of difficulty
+QUALITY
+3.2
+11 ratings
+Roberto Avant-Mier
+Communication
+The University of Texas at El Paso
+50%
+would take again
+3.6
+level of difficulty
+QUALITY
+5.0
+2 ratings
+Elizabeth Myers
+Sociology
+The University of Texas at El Paso
+100%
+would take again
+1
+level of difficulty
+QUALITY
+4.8
+8 ratings
+Bradley Cartwright
+History
+The University of Texas at El Paso
+100%
+would take again
+2
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Vianela Tapia
+Early Childhood Education
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Cynthia Chavez
+Education
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+3.5
+53 ratings
+Selfa Chew-Smithart
+History
+The University of Texas at El Paso
+50%
+would take again
+3.3
+level of difficulty
+QUALITY
+4.5
+8 ratings
+Levi Martin
+English
+The University of Texas at El Paso
+84%
+would take again
+1.5
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Raphael Reyes Juarez
+Reading
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+4.2
+17 ratings
+Samantha Patterson
+Statistics
+The University of Texas at El Paso
+83%
+would take again
+2.4
+level of difficulty
+QUALITY
+5.0
+16 ratings
+Valerie Rasmussen
+French
+The University of Texas at El Paso
+100%
+would take again
+2.4
+level of difficulty
+QUALITY
+4.7
+15 ratings
+Abdolhossein Zarandi
+Psychology
+The University of Texas at El Paso
+100%
+would take again
+2
+level of difficulty
+QUALITY
+5.0
+2 ratings
+Cemelli De Aztlan
+Women's Studies
+The University of Texas at El Paso
+100%
+would take again
+2
+level of difficulty
+QUALITY
+2.7
+18 ratings
+Saideh Mortazavi
+Chemistry
+The University of Texas at El Paso
+48%
+would take again
+3.6
+level of difficulty
+QUALITY
+4.0
+1 ratings
+Soochan Choi
+Marketing
+The University of Texas at El Paso
+100%
+would take again
+1
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Julio Urenda
+Computer Science
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+4.5
+4 ratings
+Laura Mendoza
+English As A Second Language
+The University of Texas at El Paso
+100%
+would take again
+1.8
+level of difficulty
+QUALITY
+4.0
+1 ratings
+Jose Bayona
+Writing
+The University of Texas at El Paso
+100%
+would take again
+3
+level of difficulty
+QUALITY
+4.3
+10 ratings
+Michael Harvey
+Biology
+The University of Texas at El Paso
+82%
+would take again
+3.1
+level of difficulty
+QUALITY
+2.5
+2 ratings
+Nancy Rodriguez
+Chemistry
+The University of Texas at El Paso
+50%
+would take again
+3
+level of difficulty
+QUALITY
+4.0
+12 ratings
+Marian Manciu
+Physics
+The University of Texas at El Paso
+84%
+would take again
+2.5
+level of difficulty
+QUALITY
+3.5
+72 ratings
+Manuel Ramirez
+History
+The University of Texas at El Paso
+58%
+would take again
+2.8
+level of difficulty
+QUALITY
+4.5
+2 ratings
+Kanghoon Choi
+Physical Education
+The University of Texas at El Paso
+100%
+would take again
+1.5
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Maissa Khatib
+Women's Studies
+The University of Texas at El Paso
+N/A
+would take again
+0
 level of difficulty
 QUALITY
 1.0
 1 ratings
-Rodolfo Rincones
-Education Administration
+Sedat Erdogan
+Accounting
+The University of Texas at El Paso
+0%
+would take again
+5
+level of difficulty
+QUALITY
+4.0
+1 ratings
+Raihan Chowdhury
+Finance
+The University of Texas at El Paso
+100%
+would take again
+3
+level of difficulty
+QUALITY
+5.0
+4 ratings
+John Carrillo
+Communication
+The University of Texas at El Paso
+100%
+would take again
+1.2
+level of difficulty
+QUALITY
+3.4
+18 ratings
+Timothy Dickinson
+Criminal Justice
+The University of Texas at El Paso
+62%
+would take again
+3.8
+level of difficulty
+QUALITY
+5.0
+1 ratings
+Sondra Skory
+Nursing
+The University of Texas at El Paso
+100%
+would take again
+3
+level of difficulty
+QUALITY
+5.0
+1 ratings
+Eduardo Mariscal
+Nursing
+The University of Texas at El Paso
+100%
+would take again
+3
+level of difficulty
+QUALITY
+4.5
+10 ratings
+Michael Moody
+Biology
+The University of Texas at El Paso
+86%
+would take again
+3.1
+level of difficulty
+QUALITY
+4.8
+11 ratings
+Arshad Khan
+Biology
+The University of Texas at El Paso
+100%
+would take again
+2.3
+level of difficulty
+QUALITY
+4.0
+1 ratings
+Sivasai Balivada
+Biology
+The University of Texas at El Paso
+100%
+would take again
+2
+level of difficulty
+QUALITY
+1.0
+5 ratings
+Frank Otero
+Art
+The University of Texas at El Paso
+0%
+would take again
+1.6
+level of difficulty
+QUALITY
+3.6
+37 ratings
+Gaspare Genna
+Political Science
+The University of Texas at El Paso
+54%
+would take again
+3.3
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Jesus Gutierrez
+Electrical Engineering
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Balachandar Kathirvelu
+Physical Therapy
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+5.0
+10 ratings
+Andrea Borunda
+English
+The University of Texas at El Paso
+100%
+would take again
+2.8
+level of difficulty
+QUALITY
+4.2
+27 ratings
+Melinda Lauck
+Criminal Justice
+The University of Texas at El Paso
+84%
+would take again
+2
+level of difficulty
+QUALITY
+4.0
+3 ratings
+Maria Rosa Hernandez
+Nursing
+The University of Texas at El Paso
+67%
+would take again
+3.7
+level of difficulty
+QUALITY
+3.7
+24 ratings
+Ximena Burgos
+Health Science
+The University of Texas at El Paso
+67%
+would take again
+2.8
+level of difficulty
+QUALITY
+4.7
+3 ratings
+Robert Anders
+Health Science
+The University of Texas at El Paso
+100%
+would take again
+3
+level of difficulty
+QUALITY
+4.6
+16 ratings
+Barbara Zimbalist
+English
+The University of Texas at El Paso
+75%
+would take again
+3.3
+level of difficulty
+QUALITY
+2.5
+2 ratings
+Luis Basurto
+Physics
+The University of Texas at El Paso
+50%
+would take again
+4
+level of difficulty
+QUALITY
+3.5
+10 ratings
+Milagros Seda
+Education
+The University of Texas at El Paso
+58%
+would take again
+2.3
+level of difficulty
+QUALITY
+4.5
+4 ratings
+Justin Magee
+Psychology
+The University of Texas at El Paso
+75%
+would take again
+3.3
+level of difficulty
+QUALITY
+3.0
+46 ratings
+Gary Kieffner
+History
+The University of Texas at El Paso
+58%
+would take again
+2.9
+level of difficulty
+QUALITY
+4.7
+9 ratings
+Jerry Johnson
+Biology
+The University of Texas at El Paso
+80%
+would take again
+2.3
+level of difficulty
+QUALITY
+3.9
+70 ratings
+Eli Greenbaum
+Biology
+The University of Texas at El Paso
+68%
+would take again
+3.1
+level of difficulty
+QUALITY
+5.0
+2 ratings
+Oscar Garza
+English
+The University of Texas at El Paso
+100%
+would take again
+1.5
+level of difficulty
+QUALITY
+4.7
+6 ratings
+Ahmed El-Gendy
+Physics
+The University of Texas at El Paso
+100%
+would take again
+2.8
+level of difficulty
+QUALITY
+1.4
+11 ratings
+Brett Kawada
+Accounting
+The University of Texas at El Paso
+10%
+would take again
+4.5
+level of difficulty
+QUALITY
+3.0
+13 ratings
+Todd Curry
+Political Science
+The University of Texas at El Paso
+50%
+would take again
+3.9
+level of difficulty
+QUALITY
+4.0
+2 ratings
+Delfina Dominguez
+Clinical Laboratory Sciences
+The University of Texas at El Paso
+50%
+would take again
+4
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Nancy Cruz-Sanchez
+Clinical Laboratory Sciences
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+3.1
+15 ratings
+Jianjun Sun
+Microbiology
+The University of Texas at El Paso
+50%
+would take again
+2.7
+level of difficulty
+QUALITY
+4.4
+23 ratings
+Patricia Becker
+Education
+The University of Texas at El Paso
+75%
+would take again
+3
+level of difficulty
+QUALITY
+4.0
+29 ratings
+Jerry Wallace
+History
+The University of Texas at El Paso
+90%
+would take again
+2.5
+level of difficulty
+QUALITY
+3.7
+11 ratings
+Krystia Reed
+Psychology
+The University of Texas at El Paso
+64%
+would take again
+3.8
+level of difficulty
+QUALITY
+5.0
+4 ratings
+Samantha Dena
+Communication
+The University of Texas at El Paso
+100%
+would take again
+2
+level of difficulty
+QUALITY
+4.3
+38 ratings
+Francisco Avila
+Mathematics
+The University of Texas at El Paso
+96%
+would take again
+2.6
+level of difficulty
+QUALITY
+3.4
+7 ratings
+Irma Montelongo
+Chicano Studies
+The University of Texas at El Paso
+67%
+would take again
+3.2
+level of difficulty
+QUALITY
+4.1
+9 ratings
+Adam Esplin
+Accounting
+The University of Texas at El Paso
+100%
+would take again
+3.5
+level of difficulty
+QUALITY
+2.6
+5 ratings
+Martha Kurita
+Business Law
+The University of Texas at El Paso
+40%
+would take again
+2.8
+level of difficulty
+QUALITY
+3.9
+7 ratings
+Carolina Valencia
+Rehabilitation Sciences
+The University of Texas at El Paso
+72%
+would take again
+2.3
+level of difficulty
+QUALITY
+2.3
+3 ratings
+Juan Rubio Restrepo
+Music
+The University of Texas at El Paso
+34%
+would take again
+4.3
+level of difficulty
+QUALITY
+3.0
+44 ratings
+Eduardo Quinonez
+Mathematics
+The University of Texas at El Paso
+50%
+would take again
+3.2
+level of difficulty
+QUALITY
+3.9
+35 ratings
+Jesse Kapenga
+Political Science
+The University of Texas at El Paso
+85%
+would take again
+2.4
+level of difficulty
+QUALITY
+3.1
+8 ratings
+Maria Maier
+Writing
+The University of Texas at El Paso
+38%
+would take again
+3.3
+level of difficulty
+QUALITY
+2.5
+8 ratings
+Wen-Whai Li
+Civil Engineering
+The University of Texas at El Paso
+20%
+would take again
+3.8
+level of difficulty
+QUALITY
+2.0
+2 ratings
+Luis Perez
+Engineering
+The University of Texas at El Paso
+50%
+would take again
+2.5
+level of difficulty
+QUALITY
+1.0
+1 ratings
+Markus Peterson
+Biology
+The University of Texas at El Paso
+0%
+would take again
+5
+level of difficulty
+QUALITY
+3.4
+36 ratings
+Arthur Duval
+Mathematics
+The University of Texas at El Paso
+59%
+would take again
+3.6
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Lauren Lavretsky
+Science Education
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+5.0
+2 ratings
+Vincent Burke
+Art
+The University of Texas at El Paso
+100%
+would take again
+3.5
+level of difficulty
+QUALITY
+4.5
+2 ratings
+Sudip Bajpeyi
+Kinesiology
+The University of Texas at El Paso
+100%
+would take again
+3.5
+level of difficulty
+QUALITY
+1.0
+1 ratings
+Nina Dropcho
+Biology
+The University of Texas at El Paso
+0%
+would take again
+5
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Christine Potter
+Psychology
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+2.0
+5 ratings
+Laura Rodriguez
+Nursing
+The University of Texas at El Paso
+0%
+would take again
+3
+level of difficulty
+QUALITY
+4.8
+4 ratings
+Alma Hernandez
+Criminal Justice
+The University of Texas at El Paso
+100%
+would take again
+2.5
+level of difficulty
+QUALITY
+4.1
+17 ratings
+Omar Cedillos
+Mechanical Engineering
+The University of Texas at El Paso
+83%
+would take again
+1.9
+level of difficulty
+QUALITY
+4.5
+6 ratings
+Emmanuel Sequeira
+Finance
+The University of Texas at El Paso
+100%
+would take again
+2.7
+level of difficulty
+QUALITY
+2.9
+4 ratings
+Elizabeth De Vos
+Accounting
+The University of Texas at El Paso
+0%
+would take again
+4
+level of difficulty
+QUALITY
+4.7
+7 ratings
+April Thomas
+Psychology
+The University of Texas at El Paso
+100%
+would take again
+3
+level of difficulty
+QUALITY
+4.8
+9 ratings
+Aaron Velasco
+Geology
+The University of Texas at El Paso
+100%
+would take again
+1.6
+level of difficulty
+QUALITY
+5.0
+1 ratings
+Carolina Lopez
+University Studies
+The University of Texas at El Paso
+100%
+would take again
+1
+level of difficulty
+QUALITY
+4.2
+35 ratings
+Davinia Gomez-Miraval
+Art
+The University of Texas at El Paso
+74%
+would take again
+3.3
+level of difficulty
+QUALITY
+4.1
+23 ratings
+Jeffery Shepherd
+History
+The University of Texas at El Paso
+67%
+would take again
+2.7
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Marissa Stephens
+Computer Science
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Hector Del Castillo
+Chemistry
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+3.6
+11 ratings
+Thomas Taylor
+Mathematics
+The University of Texas at El Paso
+89%
+would take again
+2.5
+level of difficulty
+QUALITY
+3.5
+52 ratings
+Mary Kay Roy
+Computer Science
+The University of Texas at El Paso
+58%
+would take again
+1.8
+level of difficulty
+QUALITY
+4.3
+15 ratings
+Erik Nabors
+Criminal Justice
+The University of Texas at El Paso
+82%
+would take again
+3.5
+level of difficulty
+QUALITY
+4.6
+11 ratings
+Normajean Gradsky
+Communication
+The University of Texas at El Paso
+100%
+would take again
+1.6
+level of difficulty
+QUALITY
+2.8
+6 ratings
+Omar Carrasco
+Statistics
+The University of Texas at El Paso
+50%
+would take again
+3.8
+level of difficulty
+QUALITY
+4.3
+21 ratings
+Vladik Kreinovich
+Computer Science
+The University of Texas at El Paso
+78%
+would take again
+2.2
+level of difficulty
+QUALITY
+5.0
+5 ratings
+Melissa Warak
+Art History
+The University of Texas at El Paso
+100%
+would take again
+3.4
+level of difficulty
+QUALITY
+3.7
+10 ratings
+Belekeh Chagra
+English
+The University of Texas at El Paso
+63%
+would take again
+3.8
+level of difficulty
+QUALITY
+3.1
+19 ratings
+Joy Myers
+Anthropology
+The University of Texas at El Paso
+53%
+would take again
+3.1
+level of difficulty
+QUALITY
+1.6
+8 ratings
+James Upson
+Finance
+The University of Texas at El Paso
+13%
+would take again
+4.6
+level of difficulty
+QUALITY
+3.5
+12 ratings
+Leopoldo Gemoets
+Computer Information Systems
+The University of Texas at El Paso
+50%
+would take again
+2.3
+level of difficulty
+QUALITY
+2.8
+11 ratings
+Godwin Udo
+Information Science
+The University of Texas at El Paso
+50%
+would take again
+3.2
+level of difficulty
+QUALITY
+2.0
+3 ratings
+Miguel Ramos-Gonzalez
+Management
+The University of Texas at El Paso
+34%
+would take again
+4
+level of difficulty
+QUALITY
+3.0
+1 ratings
+Zifeng Feng
+Finance
+The University of Texas at El Paso
+0%
+would take again
+4
+level of difficulty
+QUALITY
+5.0
+1 ratings
+Muhammad Abir
+Mechanical Engineering
+The University of Texas at El Paso
+100%
+would take again
+3
+level of difficulty
+QUALITY
+4.1
+42 ratings
+John Hadjimarcou
+Marketing
+The University of Texas at El Paso
+73%
+would take again
+3.1
+level of difficulty
+QUALITY
+4.6
+28 ratings
+Kimberly Castillo-Kilpatrick
+Communication
+The University of Texas at El Paso
+100%
+would take again
+1.4
+level of difficulty
+QUALITY
+3.7
+32 ratings
+Musa Hussein
+Geology
+The University of Texas at El Paso
+82%
+would take again
+2.5
+level of difficulty
+QUALITY
+3.7
+52 ratings
+Miguel Cedeno Moreno
+Mechanical Engineering
+The University of Texas at El Paso
+77%
+would take again
+3.3
+level of difficulty
+QUALITY
+3.7
+51 ratings
+Max Grossman
+Art History
+The University of Texas at El Paso
+44%
+would take again
+4.4
+level of difficulty
+QUALITY
+1.7
+17 ratings
+Ricardo Bernal
+Chemistry
+The University of Texas at El Paso
+13%
+would take again
+4.4
+level of difficulty
+QUALITY
+3.8
+10 ratings
+Anthony Darrouzet-Nardi
+Biology
+The University of Texas at El Paso
+67%
+would take again
+3.3
+level of difficulty
+QUALITY
+4.1
+18 ratings
+Keith Polette
+English
+The University of Texas at El Paso
+70%
+would take again
+3.4
+level of difficulty
+QUALITY
+1.8
+24 ratings
+Huiyan Yang
+Physical Sciences
+The University of Texas at El Paso
+23%
+would take again
+3.6
+level of difficulty
+QUALITY
+2.2
+12 ratings
+Elizabeth Walsh
+Biology
+The University of Texas at El Paso
+17%
+would take again
+4.3
+level of difficulty
+QUALITY
+2.5
+31 ratings
+Osvaldo Mendez
+Mathematics
+The University of Texas at El Paso
+22%
+would take again
+4.4
+level of difficulty
+QUALITY
+4.4
+15 ratings
+Dan McGlasson
+Mathematics
+The University of Texas at El Paso
+100%
+would take again
+2.2
+level of difficulty
+QUALITY
+2.4
+13 ratings
+Crystal Bustillos
+Political Science
+The University of Texas at El Paso
+28%
+would take again
+3.2
+level of difficulty
+QUALITY
+4.1
+90 ratings
+Scott Comar
+History
+The University of Texas at El Paso
+86%
+would take again
+2.3
+level of difficulty
+QUALITY
+3.7
+57 ratings
+Cheryl Ordaz
+Criminal Justice
+The University of Texas at El Paso
+97%
+would take again
+2.5
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Tom Fullerton
+Economics
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+3.9
+7 ratings
+Manuel Guerra
+Printmaking
+The University of Texas at El Paso
+80%
+would take again
+2.8
+level of difficulty
+QUALITY
+4.3
+13 ratings
+Clayton Bench
+Humanities
+The University of Texas at El Paso
+72%
+would take again
+2.8
+level of difficulty
+QUALITY
+4.5
+2 ratings
+Daniel DeBlasio
+Computer Science
+The University of Texas at El Paso
+100%
+would take again
+3.5
+level of difficulty
+QUALITY
+3.0
+14 ratings
+Rodrigo Romero
+Computer Science
+The University of Texas at El Paso
+34%
+would take again
+3.7
+level of difficulty
+QUALITY
+3.6
+10 ratings
+Michael McGarry
+Engineering
+The University of Texas at El Paso
+80%
+would take again
+3.5
+level of difficulty
+QUALITY
+1.0
+2 ratings
+Daniel Pastor
+Economics
+The University of Texas at El Paso
+0%
+would take again
+4.5
+level of difficulty
+QUALITY
+4.0
+4 ratings
+Pedro Espinoza
+University Studies
+The University of Texas at El Paso
+75%
+would take again
+3
+level of difficulty
+QUALITY
+2.7
+17 ratings
+Piotr Wojciechowski
+Mathematics
+The University of Texas at El Paso
+38%
+would take again
+4.4
+level of difficulty
+QUALITY
+5.0
+11 ratings
+Christopher Herrera
+Communication
+The University of Texas at El Paso
+100%
+would take again
+2.5
+level of difficulty
+QUALITY
+2.9
+123 ratings
+Abha Singh
+Political Science
+The University of Texas at El Paso
+41%
+would take again
+3.6
+level of difficulty
+QUALITY
+3.2
+18 ratings
+Carl Dirk
+Chemistry
+The University of Texas at El Paso
+59%
+would take again
+3.5
+level of difficulty
+QUALITY
+4.1
+11 ratings
+Jose Banuelos
+Physics
+The University of Texas at El Paso
+73%
+would take again
+3.5
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Tim Hernandez
+Creative Writing
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+3.7
+3 ratings
+Melissa Melpignano
+Dance
+The University of Texas at El Paso
+67%
+would take again
+3.7
+level of difficulty
+QUALITY
+2.6
+5 ratings
+Natalia Rosales
+Computer Science
+The University of Texas at El Paso
+40%
+would take again
+2.8
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Ines Gallo de Urioste
+Creative Writing
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+4.1
+14 ratings
+Nikki A. Agee
+English
+The University of Texas at El Paso
+60%
+would take again
+3.3
+level of difficulty
+QUALITY
+3.7
+62 ratings
+Natasha Sharma
+Mathematics
+The University of Texas at El Paso
+84%
+would take again
+3.3
+level of difficulty
+QUALITY
+5.0
+1 ratings
+David Zubia
+Electrical Engineering
+The University of Texas at El Paso
+100%
+would take again
+1
+level of difficulty
+QUALITY
+1.8
+9 ratings
+Thompson Sarkodie-Gyan
+Electrical Engineering
+The University of Texas at El Paso
+100%
+would take again
+3.1
+level of difficulty
+QUALITY
+0.0
+0 ratings
+David Guzman
+Electrical Engineering
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+4.4
+13 ratings
+Luis Anchondo
+Spanish
+The University of Texas at El Paso
+93%
+would take again
+2.1
+level of difficulty
+QUALITY
+3.2
+16 ratings
+Kien Lim
+Education
+The University of Texas at El Paso
+54%
+would take again
+3.5
+level of difficulty
+QUALITY
+4.3
+4 ratings
+Sangeeta Tiwari
+Biology
+The University of Texas at El Paso
+75%
+would take again
+2.7
+level of difficulty
+QUALITY
+3.7
+12 ratings
+Ashley Rodriguez
+Political Science
+The University of Texas at El Paso
+70%
+would take again
+2.1
+level of difficulty
+QUALITY
+4.7
+36 ratings
+Jorge Aguilar Cruz
+Communication
+The University of Texas at El Paso
+95%
+would take again
+2.3
+level of difficulty
+QUALITY
+4.4
+30 ratings
+Naomi Fertman
+Women's Studies
+The University of Texas at El Paso
+83%
+would take again
+3
+level of difficulty
+QUALITY
+2.1
+9 ratings
+John Dunn
+Art & Design
+The University of Texas at El Paso
+50%
+would take again
+3.2
+level of difficulty
+QUALITY
+1.0
+1 ratings
+Megan Heckmann
+Art
+The University of Texas at El Paso
+0%
+would take again
+3
+level of difficulty
+QUALITY
+4.0
+1 ratings
+Claudia Ramirez
+Creative Writing
+The University of Texas at El Paso
+100%
+would take again
+2
+level of difficulty
+QUALITY
+3.6
+19 ratings
+Mariah Chase
+Art
+The University of Texas at El Paso
+59%
+would take again
+3.1
+level of difficulty
+QUALITY
+4.8
+5 ratings
+Nicolas Cooper
+Writing
+The University of Texas at El Paso
+80%
+would take again
+1.6
+level of difficulty
+QUALITY
+5.0
+3 ratings
+Sandra Flores
+English
+The University of Texas at El Paso
+100%
+would take again
+2
+level of difficulty
+QUALITY
+4.0
+1 ratings
+Aryzbe Najera
+Electrical Engineering
+The University of Texas at El Paso
+100%
+would take again
+3
+level of difficulty
+QUALITY
+3.9
+8 ratings
+Monika Akbar
+Computer Science
+The University of Texas at El Paso
+80%
+would take again
+1.9
+level of difficulty
+QUALITY
+4.7
+12 ratings
+Jessica Slade
+Early Childhood Education
+The University of Texas at El Paso
+84%
+would take again
+1.7
+level of difficulty
+QUALITY
+4.8
+14 ratings
+Paul Cross
+Criminal Justice
+The University of Texas at El Paso
+0%
+would take again
+1.2
+level of difficulty
+QUALITY
+4.6
+41 ratings
+Giulio Francia
+Biology
+The University of Texas at El Paso
+95%
+would take again
+2.7
+level of difficulty
+QUALITY
+3.8
+13 ratings
+James Kubicki
+Environmental Science
+The University of Texas at El Paso
+70%
+would take again
+2.9
+level of difficulty
+QUALITY
+4.0
+4 ratings
+Michael Garcia
+Operations Management
+The University of Texas at El Paso
+75%
+would take again
+3.5
+level of difficulty
+QUALITY
+2.5
+14 ratings
+Paul Vierra
+English
+The University of Texas at El Paso
+28%
+would take again
+4.1
+level of difficulty
+QUALITY
+4.5
+11 ratings
+Arifur Khan
+Mechanical Engineering
+The University of Texas at El Paso
+91%
+would take again
+1.5
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Julien Chaput
+Geophysics
+The University of Texas at El Paso
+0%
+would take again
+0
+level of difficulty
+QUALITY
+2.7
+16 ratings
+Rocio Gallardo
+Mathematics Education
+The University of Texas at El Paso
+47%
+would take again
+2.6
+level of difficulty
+QUALITY
+4.3
+52 ratings
+Omar Barraza
+Mechanical Engineering
+The University of Texas at El Paso
+85%
+would take again
+1.9
+level of difficulty
+QUALITY
+3.9
+18 ratings
+Christy Mielke
+Statistics
+The University of Texas at El Paso
+73%
+would take again
+3.3
+level of difficulty
+QUALITY
+3.0
+3 ratings
+Hector Erives
+Electrical Engineering
+The University of Texas at El Paso
+75%
+would take again
+2.7
+level of difficulty
+QUALITY
+2.4
+4 ratings
+Sergio Pena
+Political Science
+The University of Texas at El Paso
+100%
+would take again
+3.8
+level of difficulty
+QUALITY
+3.0
+49 ratings
+Nancy Marcus
+Mathematics
+The University of Texas at El Paso
+75%
+would take again
+3.5
+level of difficulty
+QUALITY
+4.1
+55 ratings
+Hettie Houghton
+Accounting
+The University of Texas at El Paso
+75%
+would take again
+3.6
+level of difficulty
+QUALITY
+1.0
+1 ratings
+Bo Gao
+Accounting
+The University of Texas at El Paso
+0%
+would take again
+3
+level of difficulty
+QUALITY
+3.3
+4 ratings
+Claudia Martinez Boyd
+Communication
+The University of Texas at El Paso
+75%
+would take again
+3
+level of difficulty
+QUALITY
+2.6
+33 ratings
+Tracey Merworth
+Nursing
+The University of Texas at El Paso
+29%
+would take again
+3.1
+level of difficulty
+QUALITY
+2.0
+1 ratings
+Cristina Dominguez Quezada
+Nursing
 The University of Texas at El Paso
 0%
 would take again
 1
 level of difficulty
 QUALITY
-4.0
-1 ratings
-Yang Zhang
-Management
+0.0
+0 ratings
+Justin Lewis
+English
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+3.6
+13 ratings
+Robert Wilson
+Business
+The University of Texas at El Paso
+70%
+would take again
+3.5
+level of difficulty
+QUALITY
+3.7
+67 ratings
+Laird R. Smith
+Business
+The University of Texas at El Paso
+78%
+would take again
+3.4
+level of difficulty
+QUALITY
+3.9
+12 ratings
+Philip Goodell
+Geology
+The University of Texas at El Paso
+67%
+would take again
+3.6
+level of difficulty
+QUALITY
+3.3
+6 ratings
+Jose Hurtado
+Geology
+The University of Texas at El Paso
+40%
+would take again
+3.5
+level of difficulty
+QUALITY
+4.7
+7 ratings
+Jason Ricketts
+Environmental Science
 The University of Texas at El Paso
 100%
+would take again
+2.3
+level of difficulty
+QUALITY
+2.7
+3 ratings
+Marianne Karplus
+Geology
+The University of Texas at El Paso
+67%
+would take again
+2.7
+level of difficulty
+QUALITY
+1.8
+5 ratings
+Elva Vasquez
+Health Science
+The University of Texas at El Paso
+0%
+would take again
+4.8
+level of difficulty
+QUALITY
+2.0
+64 ratings
+Luis Valdez-Sanchez
+Mathematics
+The University of Texas at El Paso
+8%
+would take again
+4.5
+level of difficulty
+QUALITY
+1.0
+2 ratings
+Shoshanna Shaffin
+Women's Studies
+The University of Texas at El Paso
+0%
+would take again
+1
+level of difficulty
+QUALITY
+4.6
+10 ratings
+Katherine Bird
+Communication
+The University of Texas at El Paso
+80%
+would take again
+3
+level of difficulty
+QUALITY
+4.7
+6 ratings
+Sergio Grove
+Management
+The University of Texas at El Paso
+84%
+would take again
+3.5
+level of difficulty
+QUALITY
+4.4
+51 ratings
+Edward Ramirez
+Marketing
+The University of Texas at El Paso
+87%
+would take again
+2
+level of difficulty
+QUALITY
+3.7
+26 ratings
+Paul Goldstein
+Biology
+The University of Texas at El Paso
+86%
+would take again
+1.8
+level of difficulty
+QUALITY
+4.5
+15 ratings
+Gregory Taylor
+Theater
+The University of Texas at El Paso
+84%
+would take again
+1.7
+level of difficulty
+QUALITY
+4.7
+6 ratings
+Myrna Lozano
+Criminal Justice
+The University of Texas at El Paso
+84%
+would take again
+3.3
+level of difficulty
+QUALITY
+4.0
+1 ratings
+Shirley Moore
+Computer Science
+The University of Texas at El Paso
+100%
+would take again
+3
+level of difficulty
+QUALITY
+3.9
+17 ratings
+Yoonsik Cheon
+Computer Science
+The University of Texas at El Paso
+82%
+would take again
+3.6
+level of difficulty
+QUALITY
+2.8
+13 ratings
+Elva Vazquez
+Education
+The University of Texas at El Paso
+39%
+would take again
+3.2
+level of difficulty
+QUALITY
+4.0
+6 ratings
+Viridiana Matus
+Spanish
+The University of Texas at El Paso
+84%
+would take again
+2.7
+level of difficulty
+QUALITY
+5.0
+5 ratings
+Angel Armenta
+Psychology
+The University of Texas at El Paso
+100%
+would take again
+2.2
+level of difficulty
+QUALITY
+4.9
+20 ratings
+Roderick Callaway
+Sociology
+The University of Texas at El Paso
+100%
+would take again
+2.1
+level of difficulty
+QUALITY
+2.0
+1 ratings
+Stephanie Clark
+Sociology
+The University of Texas at El Paso
+0%
+would take again
+1
+level of difficulty
+QUALITY
+3.2
+23 ratings
+Wenming Chung
+Operations Management
+The University of Texas at El Paso
+50%
+would take again
+3.6
+level of difficulty
+QUALITY
+5.0
+1 ratings
+Destan Kirimhan
+Economics & Finance
+The University of Texas at El Paso
+100%
+would take again
+2
+level of difficulty
+QUALITY
+3.4
+32 ratings
+Shalla Copeland
+Nursing
+The University of Texas at El Paso
+50%
+would take again
+3.7
+level of difficulty
+QUALITY
+1.9
+21 ratings
+Jacob Munoz
+Art & Design
+The University of Texas at El Paso
+31%
+would take again
+4.1
+level of difficulty
+QUALITY
+1.0
+1 ratings
+Debbie Hartmann
+Art Education
+The University of Texas at El Paso
+0%
+would take again
+4
+level of difficulty
+QUALITY
+3.8
+37 ratings
+Manuel Llano
+Microbiology
+The University of Texas at El Paso
+67%
+would take again
+3.1
+level of difficulty
+QUALITY
+4.6
+53 ratings
+Victor Jimenez
+Mathematics
+The University of Texas at El Paso
+95%
+would take again
+2.2
+level of difficulty
+QUALITY
+3.7
+16 ratings
+Robert Flickinger
+History
+The University of Texas at El Paso
+69%
+would take again
+3.4
+level of difficulty
+QUALITY
+4.6
+7 ratings
+Maria Talamantes
+Education
+The University of Texas at El Paso
+100%
+would take again
+2.4
+level of difficulty
+QUALITY
+3.8
+4 ratings
+Maria Jimenez Velasco
+Computer Information Systems
+The University of Texas at El Paso
+75%
+would take again
+2.8
+level of difficulty
+QUALITY
+4.2
+5 ratings
+Michael Williams
+African-American Studies
+The University of Texas at El Paso
+80%
+would take again
+3.8
+level of difficulty
+QUALITY
+4.4
+15 ratings
+Curtis Tredway
+Music
+The University of Texas at El Paso
+100%
+would take again
+2.3
+level of difficulty
+QUALITY
+4.8
+15 ratings
+Victor Vazquez Rodriguez
+Anthropology
+The University of Texas at El Paso
+100%
+would take again
+1.6
+level of difficulty
+QUALITY
+3.3
+152 ratings
+James Salvador
+Chemistry
+The University of Texas at El Paso
+50%
+would take again
+4.3
+level of difficulty
+QUALITY
+3.4
+44 ratings
+Robert Sandoval
+Business Law
+The University of Texas at El Paso
+63%
+would take again
+3.1
+level of difficulty
+QUALITY
+3.9
+12 ratings
+Nicholas Emerick
+Sociology
+The University of Texas at El Paso
+67%
+would take again
+3.2
+level of difficulty
+QUALITY
+5.0
+1 ratings
+Vanessa Espitia Mendoza
+Bilingual Education
+The University of Texas at El Paso
+100%
+would take again
+2
+level of difficulty
+QUALITY
+5.0
+2 ratings
+Kristopher Yeager
+Education
+The University of Texas at El Paso
+100%
+would take again
+2.5
+level of difficulty
+QUALITY
+3.7
+14 ratings
+Maryam Zarei
+Environmental Science
+The University of Texas at El Paso
+72%
+would take again
+2.4
+level of difficulty
+QUALITY
+4.4
+5 ratings
+Melissa De Roos
+Psychology
+The University of Texas at El Paso
+100%
+would take again
+2.8
+level of difficulty
+QUALITY
+3.1
+44 ratings
+Caroline Arruda
+Philosophy
+The University of Texas at El Paso
+30%
+would take again
+3.6
+level of difficulty
+QUALITY
+4.4
+73 ratings
+Aleksandar Pjevalica
+Philosophy
+The University of Texas at El Paso
+98%
+would take again
+3.1
+level of difficulty
+QUALITY
+3.4
+42 ratings
+Hsin-I Lin
+Biology
+The University of Texas at El Paso
+61%
+would take again
+2.4
+level of difficulty
+QUALITY
+4.7
+8 ratings
+Graciela Echavarri
+Spanish
+The University of Texas at El Paso
+100%
+would take again
+1.9
+level of difficulty
+QUALITY
+5.0
+2 ratings
+Rebecca Pastrana
+Criminal Justice
+The University of Texas at El Paso
+100%
+would take again
+3
+level of difficulty
+QUALITY
+3.1
+19 ratings
+Somnath Mukhopadhyay
+Business
+The University of Texas at El Paso
+25%
+would take again
+2.7
+level of difficulty
+QUALITY
+1.9
+17 ratings
+Paulette Rodriguez
+Accounting
+The University of Texas at El Paso
+24%
+would take again
+4.5
+level of difficulty
+QUALITY
+3.6
+32 ratings
+Jianying Zhang
+Nursing
+The University of Texas at El Paso
+67%
+would take again
+2.6
+level of difficulty
+QUALITY
+1.8
+4 ratings
+Tahsina Simu
+Finance
+The University of Texas at El Paso
+25%
+would take again
+3
+level of difficulty
+QUALITY
+4.9
+20 ratings
+Jose Maldonado
+Communication
+The University of Texas at El Paso
+100%
+would take again
+1.7
+level of difficulty
+QUALITY
+3.6
+13 ratings
+Larisa Veloz
+History
+The University of Texas at El Paso
+54%
+would take again
+3.6
+level of difficulty
+QUALITY
+4.4
+5 ratings
+Maria Gonzalez
+Physical Sciences
+The University of Texas at El Paso
+75%
+would take again
+1.8
+level of difficulty
+QUALITY
+4.0
+2 ratings
+Maria Gonzalez
+Physics
+The University of Texas at El Paso
+100%
+would take again
+2
+level of difficulty
+QUALITY
+2.5
+11 ratings
+Karla Miranda
+Physics
+The University of Texas at El Paso
+40%
+would take again
+3.2
+level of difficulty
+QUALITY
+3.7
+32 ratings
+Martine Ceberio
+Computer Science
+The University of Texas at El Paso
+62%
+would take again
+3.7
+level of difficulty
+QUALITY
+3.0
+92 ratings
+James Becvar
+Chemistry
+The University of Texas at El Paso
+31%
+would take again
+3.3
+level of difficulty
+QUALITY
+5.0
+6 ratings
+Frank Cabano
+Marketing
+The University of Texas at El Paso
+100%
+would take again
+2.5
+level of difficulty
+QUALITY
+4.4
+21 ratings
+Lorena Galvan
+Statistics
+The University of Texas at El Paso
+91%
+would take again
+2.9
+level of difficulty
+QUALITY
+4.2
+6 ratings
+Ruby Lynch-Arroyo
+Education
+The University of Texas at El Paso
+100%
+would take again
+2.5
+level of difficulty
+QUALITY
+2.4
+24 ratings
+Vicki Harder
+Geology
+The University of Texas at El Paso
+42%
+would take again
+2.3
+level of difficulty
+QUALITY
+2.4
+5 ratings
+Alejandra Carrillo Estrada
+Art & Design
+The University of Texas at El Paso
+20%
+would take again
+4.2
+level of difficulty
+QUALITY
+1.7
+3 ratings
+Behzad Djafari-Rouhani
+Mathematics
+The University of Texas at El Paso
+34%
+would take again
+4
+level of difficulty
+QUALITY
+3.9
+62 ratings
+Ruth McDonald
+Women's Studies
+The University of Texas at El Paso
+72%
+would take again
+3
+level of difficulty
+QUALITY
+2.2
+6 ratings
+Glen Fairen
+Religious Studies
+The University of Texas at El Paso
+17%
+would take again
+4.2
+level of difficulty
+QUALITY
+5.0
+2 ratings
+Jillian Waters
+Theater
+The University of Texas at El Paso
+100%
+would take again
+2
+level of difficulty
+QUALITY
+1.0
+7 ratings
+Ana Cisneros
+Kinesiology
+The University of Texas at El Paso
+0%
+would take again
+4.6
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Owen Salmon
+Kinesiology
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+4.8
+197 ratings
+Daniel Tillman
+Education
+The University of Texas at El Paso
+100%
+would take again
+2.5
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Justin Magee
+Computer Engineering
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+2.0
+15 ratings
+Eduardo Quionez-Rico
+Mathematics
+The University of Texas at El Paso
+20%
+would take again
+3.7
+level of difficulty
+QUALITY
+5.0
+11 ratings
+Lori Whitaker
+Reading
+The University of Texas at El Paso
+100%
+would take again
+2.7
+level of difficulty
+QUALITY
+5.0
+2 ratings
+Diana Bolsinger
+Criminal Justice
+The University of Texas at El Paso
+100%
+would take again
+3
+level of difficulty
+QUALITY
+3.8
+6 ratings
+Kelly Ramirez
+Biology
+The University of Texas at El Paso
+50%
+would take again
+3.3
+level of difficulty
+QUALITY
+4.6
+47 ratings
+Louis Everett
+Engineering
+The University of Texas at El Paso
+89%
+would take again
+1.5
+level of difficulty
+QUALITY
+3.9
+7 ratings
+Joanne Moyer
+Civil Engineering
+The University of Texas at El Paso
+72%
+would take again
+3.2
+level of difficulty
+QUALITY
+2.0
+4 ratings
+Olga Kosheleva
+Education
+The University of Texas at El Paso
+25%
+would take again
+1.5
+level of difficulty
+QUALITY
+2.6
+78 ratings
+Juan Noveron
+Chemistry
+The University of Texas at El Paso
+31%
+would take again
+3
+level of difficulty
+QUALITY
+2.9
+33 ratings
+Mahesh Narayan
+Chemistry
+The University of Texas at El Paso
+34%
+would take again
+4
+level of difficulty
+QUALITY
+5.0
+3 ratings
+Vivian Rivas
+Reading
+The University of Texas at El Paso
+100%
+would take again
+2.7
+level of difficulty
+QUALITY
+3.0
+1 ratings
+Seyedmasood Dastan
+Statistics
+The University of Texas at El Paso
+0%
+would take again
+5
+level of difficulty
+QUALITY
+4.0
+11 ratings
+Jeremy Ramirez
+Mathematics Education
+The University of Texas at El Paso
+90%
+would take again
+2.6
+level of difficulty
+QUALITY
+4.6
+46 ratings
+Katherine Serafine
+Psychology
+The University of Texas at El Paso
+91%
+would take again
+3.3
+level of difficulty
+QUALITY
+3.0
+2 ratings
+Jair Munoz
+University Studies
+The University of Texas at El Paso
+50%
+would take again
+4
+level of difficulty
+QUALITY
+4.6
+16 ratings
+Arslan Faruk
+Business
+The University of Texas at El Paso
+67%
+would take again
+2.1
+level of difficulty
+QUALITY
+2.5
+22 ratings
+Arturo Bronson
+Mechanical Engineering
+The University of Texas at El Paso
+25%
+would take again
+3.8
+level of difficulty
+QUALITY
+2.8
+36 ratings
+Adolfo Alvarez
+Psychology
+The University of Texas at El Paso
+35%
 would take again
 4
 level of difficulty
 QUALITY
 3.0
-14 ratings
-Rosa Maldonado-Medina
-Microbiology
+196 ratings
+Richard Gutierrez
+Political Science
+The University of Texas at El Paso
+30%
+would take again
+3.8
+level of difficulty
+QUALITY
+3.7
+3 ratings
+Alfonso Nahuat
+French
 The University of Texas at El Paso
 67%
 would take again
-3.3
+2.3
 level of difficulty
 QUALITY
-3.3
-3 ratings
-Sabiha Khan
-Women's Studies
+2.6
+17 ratings
+Miguel Juárez
+History
 The University of Texas at El Paso
-67%
+36%
+would take again
+2.6
+level of difficulty
+QUALITY
+2.4
+30 ratings
+Eric Freudenthal
+Computer Science
+The University of Texas at El Paso
+36%
+would take again
+4.1
+level of difficulty
+QUALITY
+3.0
+4 ratings
+Arvind Singhal
+Communication
+The University of Texas at El Paso
+50%
+would take again
+2.5
+level of difficulty
+QUALITY
+2.1
+11 ratings
+Sergio Cabrera
+Electrical Engineering
+The University of Texas at El Paso
+20%
+would take again
+4.5
+level of difficulty
+QUALITY
+1.6
+17 ratings
+Martha Delgado
+Mathematics
+The University of Texas at El Paso
+18%
 would take again
 4.3
 level of difficulty
 QUALITY
-3.3
-27 ratings
-Hamide Dogan
-Mathematics
+4.0
+45 ratings
+Eric Meringer
+History
 The University of Texas at El Paso
-75%
+78%
+would take again
+2.5
+level of difficulty
+QUALITY
+4.7
+8 ratings
+Lauren Lavretsky
+Health Science
+The University of Texas at El Paso
+100%
+would take again
+2.4
+level of difficulty
+QUALITY
+4.5
+10 ratings
+Paul Sabandal
+Biology
+The University of Texas at El Paso
+100%
+would take again
+1.9
+level of difficulty
+QUALITY
+3.0
+13 ratings
+Ricardo von Borries
+Electrical Engineering
+The University of Texas at El Paso
+58%
+would take again
+4.4
+level of difficulty
+QUALITY
+1.3
+8 ratings
+Raed Aldouri
+Civil Engineering
+The University of Texas at El Paso
+0%
+would take again
+4.6
+level of difficulty
+QUALITY
+3.3
+38 ratings
+Boris Higgins
+Economics
+The University of Texas at El Paso
+52%
+would take again
+2.9
+level of difficulty
+QUALITY
+3.5
+11 ratings
+Marcos Menchaca
+Political Science
+The University of Texas at El Paso
+73%
+would take again
+3
+level of difficulty
+QUALITY
+4.3
+12 ratings
+Lowry Martin
+French
+The University of Texas at El Paso
+67%
 would take again
 3.4
 level of difficulty
 QUALITY
-4.7
+2.7
+72 ratings
+Hector Noriega
+Astronomy
+The University of Texas at El Paso
+66%
+would take again
+3.1
+level of difficulty
+QUALITY
+2.5
+26 ratings
+Ronald Weber
+Humanities
+The University of Texas at El Paso
+15%
+would take again
+4.2
+level of difficulty
+QUALITY
+3.6
+16 ratings
+Anthony Blum
+Psychology
+The University of Texas at El Paso
+62%
+would take again
+2.8
+level of difficulty
+QUALITY
+2.1
+7 ratings
+Adrian Tippit
+Finance
+The University of Texas at El Paso
+29%
+would take again
+4.3
+level of difficulty
+QUALITY
+3.8
+60 ratings
+Ernesto Chavez
+History
+The University of Texas at El Paso
+75%
+would take again
+2.8
+level of difficulty
+QUALITY
+1.0
+1 ratings
+John Hadjimarcou
+Business
+The University of Texas at El Paso
+0%
+would take again
+4
+level of difficulty
+QUALITY
+0.0
+0 ratings
+Jessica Armendariz
+Reading
+The University of Texas at El Paso
+N/A
+would take again
+0
+level of difficulty
+QUALITY
+3.4
+62 ratings
+Geoffrey Saupe
+Chemistry
+The University of Texas at El Paso
+66%
+would take again
+3.3
+level of difficulty
+QUALITY
+5.0
 3 ratings
-Sandra Butvilofsky
-Bilingual Education
+Laurencia Almeida
+Clinical Laboratory Sciences
 The University of Texas at El Paso
 100%
+would take again
+2.3
+level of difficulty
+QUALITY
+4.0
+6 ratings
+Caitlyn Muniz
+Criminal Justice
+The University of Texas at El Paso
+67%
+would take again
+2.8
+level of difficulty
+QUALITY
+4.2
+16 ratings
+Adrian Aragones
+Chicano Studies
+The University of Texas at El Paso
+88%
+would take again
+2.5
+level of difficulty
+QUALITY
+4.0
+53 ratings
+Michael Kolitsky
+Biology
+The University of Texas at El Paso
+78%
+would take again
+2.5
+level of difficulty
+QUALITY
+4.6
+174 ratings
+German Rosas-Acosta
+Biology
+The University of Texas at El Paso
+94%
+would take again
+3.4
+level of difficulty
+QUALITY
+3.4
+87 ratings
+Zaineb Al-Dahwi
+Biology
+The University of Texas at El Paso
+62%
+would take again
+3.6
+level of difficulty
+QUALITY
+2.1
+53 ratings
+Colin Bill
+Biology
+The University of Texas at El Paso
+13%
+would take again
+4.4
+level of difficulty
+QUALITY
+3.8
+38 ratings
+Michael Zarate
+Psychology
+The University of Texas at El Paso
+62%
+would take again
+2.9
+level of difficulty
+QUALITY
+4.0
+1 ratings
+Janise Tinsman
+University Studies
+The University of Texas at El Paso
+100%
+would take again
+2
+level of difficulty
+QUALITY
+3.9
+88 ratings
+Chuan Xiao
+Chemistry
+The University of Texas at El Paso
+73%
 would take again
 4.3
 level of difficulty
